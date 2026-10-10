@@ -2,7 +2,7 @@
 
 Project: Ferry doctoral dissertation — Korbrimob Polri.
 Builder version: 0.3.0. Mode: RESEARCH.
-Last synced commit: 4be2fd1913aefadde573ac7cc8e32f0037856ac8 (initialization merge on `main`). Synced by: ChatGPT research agent, 2026-10-11.
+Last synced commit: 97ca51d4f7062b4c51e5963e6457f41dfc4a7701 (Issue #5 branch checkpoint before this brain sync). Synced by: ChatGPT research agent, 2026-10-11.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
@@ -46,27 +46,42 @@ What is happening, where (locus), since when, and to whom. Evidence comes from t
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
-| PHN-001 | Korbrimob's 2025–2029 strategic plan documents a need to adapt to rapidly developing, increasingly complex information technology and directs capability development for technology- and data-analytics-based operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 |  | Introduction | FG0 |  |
-| PHN-002 | The same strategic plan identifies limited modernization of personnel capability in mastery of communication technology for high-intensity public-safety operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 |  | Introduction | FG0 |  |
+| PHN-001 | Korbrimob's 2025–2029 strategic plan documents a need to adapt to rapidly developing, increasingly complex information technology and directs capability development for technology- and data-analytics-based operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 | THR-003; GAP-002 | Introduction | FG0 |  |
+| PHN-002 | The same strategic plan identifies limited modernization of personnel capability in mastery of communication technology for high-intensity public-safety operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 | THR-003; GAP-002 | Introduction | FG0 |  |
 
 Locus: Korbrimob Polri. The Stage 1 phenomenon is institutional digital modernization/adaptation under high-intensity operational conditions; employee-level demands, resources, health outcomes, and organizational-capability outcomes remain to be established rather than assumed.
 
 ## Stage 2 — Theory (`THR`) and theory gaps (`GAP`)
 
-Grand theory: NOT YET FILLED (original source `SRC`: NOT YET FILLED). Role of theory: NOT YET DECIDED (lens / hypothesis generator / sensitizing concepts). Developments searched with parameter set: NOT YET FILLED.
+Grand theory: **Job Demands–Resources Theory — PROPOSED pending researcher verification of GRO-02** (original source `SRC-002`). Role at Stage 2: explanatory lens for demand/resource and health-impairment mechanisms; hypothesis-generator status is deferred until research questions are established. Targeted theory verification used `PRM-001` and `RUN-001`–`RUN-005`; no Scopus/Web of Science development search was executed in this session.
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
+| THR-001 | JD-R theory treats work characteristics as job demands and job resources that have different implications for employee strain or burnout and motivation. | SUPPORTED | SRC-002; SRC-003; PRM-001 | PHN-001; PHN-002 | THR-002; THR-003 | Theory | FG1 |  |
+| THR-002 | The JD-R health-impairment pathway provides a direct theoretical basis for examining burnout as a downstream employee-level condition under sustained demands and insufficient resources. | SUPPORTED | SRC-002; SRC-003 | THR-001 | GAP-001 | Theory | FG1 |  |
+| THR-003 | Digitization can be represented within JD-R as both Digital Job Demands and Digital Job Resources rather than as an inherently harmful exposure. | SUPPORTED | SRC-004; SRC-005 | PHN-001; PHN-002; THR-001 | THR-004; GAP-002 | Theory | FG1 |  |
+| THR-004 | Digital Job Demands are candidate demand characteristics arising from digital-technology use that require sustained effort and are conceptually distinct from strain or burnout responses. | SUPPORTED | SRC-004; SRC-005 | THR-003 | GAP-002 | Theory | FG1 |  |
+| THR-005 | Perceived Organizational Support is an employee's global belief that the organization values the employee's contribution and cares about well-being, while Organizational Support Theory and social-exchange logic are construct-specific rather than an explanation of the whole candidate model. | SUPPORTED | SRC-006; SRC-007 | THR-001 | GAP-001 | Theory | FG1 |  |
+| THR-006 | Organizational resilience is an organizational capability or process involving anticipation, coping, and adaptation rather than an individual psychological trait. | SUPPORTED | SRC-008 | PHN-001 | GAP-001 | Theory | FG1 |  |
+| THR-007 | Conservation of Resources theory provides a plausible resource-loss explanation for stress, but the evidence inspected so far does not show a necessary organizing function beyond JD-R for the candidate demand/resource-to-burnout process. | INFERRED | SRC-009; SRC-002; SRC-003; DEC-013 | THR-001; THR-002 | GAP-001 | Theory | FG1 |  |
 
-Constructs derived from the theory (basis of the Stage 3 keyword sets):
+Constructs derived from the theory (basis of Stage 3 keyword development; not final study variables):
 
-| Construct | Definition (one line) | From `THR` | Keyword parameter set |
+| Construct/domain | Definition/status | From `THR` | Keyword parameter set |
 |---|---|---|---|
+| Job demands | work characteristics requiring sustained effort; native JD-R category | THR-001; THR-002 | NOT YET CREATED |
+| Job resources | work characteristics/resources that support functioning and can reduce demand costs; native JD-R category | THR-001; THR-002 | NOT YET CREATED |
+| Burnout | employee-level health-impairment condition compatible with JD-R | THR-002 | NOT YET CREATED |
+| Digital Job Demands | digital extension of the job-demand category; candidate, not yet locked for Korbrimob | THR-003; THR-004 | NOT YET CREATED |
+| Perceived Organizational Support | OST-defined perception that may function as a candidate JD-R resource; not native to original JD-R | THR-005 | NOT YET CREATED |
+| Organizational Resilience | separate organizational capability/process domain, not derived from JD-R | THR-006 | NOT YET CREATED |
 
 Theory gaps — what the theory has not explained or tested for this phenomenon:
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
+| GAP-001 | The inspected JD-R and organizational-resilience theory sources do not establish a mechanism by which individual-level burnout becomes organizational-level resilience capability, so the cross-level bridge in the prior Ferry model remains theoretically unresolved. | INFERRED | SRC-002; SRC-003; SRC-008; DEC-012 | THR-002; THR-005; THR-006; THR-007 |  | Theory/gap | FG1 |  |
+| GAP-002 | Digital Job Demands are theoretically supported as a digital extension of JD-R, but their relevant content and boundary conditions in hierarchical high-reliability policing cannot be inferred from white-collar digital-work studies or from Korbrimob modernization evidence alone. | INFERRED | SRC-004; SRC-005; SRC-001 | PHN-001; PHN-002; THR-003; THR-004 |  | Theory/gap | FG1 |  |
 
 ## Stage 3 — Empirical literature patterns (`LIT`) and research gaps (`GAP`)
 
@@ -91,7 +106,7 @@ Novelty — the position of this study relative to the state of the art; it must
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
 
-Research questions — derived from the theoretical review and the novelty; each traces to a named gap; format follows the approach (central question and sub-questions; hypotheses; quantitative, qualitative, and integration questions):
+Research questions — derived from the results of the theoretical review and the novelty; each traces to a named gap; format follows the approach (central question and sub-questions; hypotheses; quantitative, qualitative, and integration questions):
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
@@ -182,9 +197,9 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 
 | Check | Rule | Status | IDs affected |
 |---|---|---|---|
-| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | NOT ASSESSED | PHN-001; PHN-002 |
-| Theory does work | every `THR` is used by a `DIS` in Stage 7 or explicitly found not relevant | NOT ASSESSED | |
-| Gaps are motivated | every `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ` | NOT ASSESSED | |
+| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | PASS for current Stage 2 links | PHN-001; PHN-002 |
+| Theory does work | every `THR` is used by a `DIS` in Stage 7 or explicitly found not relevant | NOT ASSESSED | THR-001–THR-007 |
+| Gaps are motivated | every `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ` | NOT ASSESSED | GAP-001; GAP-002 |
 | Questions are grounded | every `RQ` has upstream `GAP` and `NOV` | NOT ASSESSED | |
 | Questions are answered | every `RQ` has at least one `FND` (FG3) and one `CCL` (FG4) | NOT ASSESSED | |
 | Findings have evidence | every `FND` lists at least one `DAT` or `RUN` | NOT ASSESSED | |

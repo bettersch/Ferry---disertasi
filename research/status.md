@@ -2,17 +2,17 @@
 
 Active stage: Stage 2 — theoretical review and evidence audit.
 Builder status: READY TO USE.
-Research status: GRO-01 VERIFIED / STAGE 2 READY TO START.
+Research status: STAGE 2 THEORY DIRECTION REPORTED / AWAITING RESEARCHER VERIFICATION.
 Workspace mode: RESEARCH.
 
 ## Active work
 
-- Initialization/framing Issue: #1 — closing after GRO-01 verification is integrated
-- Initialization Pull Request: #2 — MERGED
-- Initialization merge commit on `main`: `4be2fd1913aefadde573ac7cc8e32f0037856ac8`
-- Post-merge synchronization Pull Request: #3 — MERGED
+- Initialization/framing Issue: #1 — CLOSED after GRO-01 verification
 - GRO-01: VERIFIED by researcher on 2026-10-11
-- Next substantive work: Stage 2 theory/evidence audit under a new Issue
+- Stage 2 Issue: #5 — `Stage 2 — Audit theory and Ferry literature evidence for GRO-02`
+- Active branch: `issue-5-theory-evidence-audit`
+- Pull Request: #6 — draft/in review
+- GRO-02: REPORTED, awaiting researcher verification
 
 Delivery status belongs in the relevant Issue. This file records research-stage and academic-gate state.
 
@@ -25,32 +25,37 @@ Delivery status belongs in the relevant Issue. This file records research-stage 
 | FG4 Manuscript | G7 | NOT ASSESSED |
 | FG5 Revision | reopened gates + G7 | NOT APPLICABLE until reviewer comments arrive |
 
-A flow gate takes the most conservative status among the gates it bundles. Researcher verification of GRO-01 authorizes the direction of the introduction/framing work; it does not itself pass G0 or FG1.
+Researcher verification of a GRO direction is not itself a quality-gate pass.
 
 | Gate | Status | Audit/evidence link |
 |---|---|---|
-| G0 Context | NOT ASSESSED | Issue #1; PR #2; PR #3; `research/project-brief.md`; `research/problem-memo.md`; `SRC-001`; GRO-01 verified |
-| G1 Problem | NOT ASSESSED | Issue #1; framing memo preliminary; theory/evidence audit still required |
-| G2 Protocol & evidence | NOT ASSESSED | Existing literature matrices require provenance/protocol audit |
-| G3 Theory & contribution | NOT ASSESSED | No grand theory, gap, novelty, or contribution approved |
+| G0 Context | NOT ASSESSED | Issue #1; GRO-01 verified; `SRC-001` |
+| G1 Problem | NOT ASSESSED | Stage 2 theory gaps registered but Stage 3 empirical synthesis not completed |
+| G2 Protocol & evidence | NOT ASSESSED | `PRM-001` targeted verification only; no Scopus/WoS run; four prior matrices inspected but not reconstructed as repository-grade systematic review |
+| G3 Theory & contribution | NOT ASSESSED | Issue #5; `literature/theory/theory-map.md`; GRO-02 awaits researcher verification; contribution remains unclaimed |
 | G4 Design | NOT ASSESSED | Method/design intentionally deferred |
 | G5 Execution readiness | NOT ASSESSED | Access, permissions, ethics, instruments, and procedures unverified |
 | G6 Results & interpretation | NOT ASSESSED | No data analysis performed |
 | G7 Manuscript & examination/review | NOT ASSESSED | Not reached |
 
-Direction: `GRO.md` reports each part of the research outline and its reasoning. GRO-01 has been verified by the researcher. Subsequent GRO sections must be reported and researcher-verified as their stages advance. Statements and evidence links are maintained in `brain.md`.
+## Current Stage 2 evidence position
 
-## Current evidence position
+The original JD-R source and contemporary JD-R developments have been registered alongside Digital Job Demands extensions, original/review POS sources, Duchek's organizational-resilience capability framework, and COR as an alternative resource-loss theory. The current proposed architecture is deliberately parsimonious: JD-R as primary grand theory; Organizational Support Theory as POS-specific foundation; Duchek as outcome-domain conceptual framework; COR as a deferred complementary mechanism.
 
-`SRC-001` registers the Renstra Korbrimob Polri 2025–2029 as Stage 1 locus evidence. It supports an institutional digital-modernization/adaptation phenomenon, but it does not establish employee-level Digital Job Demands, burnout prevalence, causal effects, a scientific gap, or a resilience deficit.
+The four existing Ferry matrices have been inspected as working evidence maps. They consistently support construct separation and preserve mixed/null evidence, but their internal quality-control `PASS` labels are not treated as repository G2/G3 assessments.
 
-The four existing variable-focused literature matrices remain available working material outside the repository provenance chain and must be audited before the project claims systematic/comprehensive coverage or uses them to establish theory/gap/novelty.
+The main unresolved theoretical problem is the level/mechanism bridge from individual burnout to organizational resilience capability. This remains an explicit theory gap rather than an assumed path.
+
+## Access limits
+
+- Consensus search was attempted but blocked by the monthly quota and is logged as `RUN-001`.
+- No Scopus/Web of Science theory-development search was executed in this session.
+- Current searches under `PRM-001` are targeted source verification, not comprehensive-review coverage.
 
 ## Next step
 
-1. Close Issue #1 after the GRO-01 verification update is merged and checked.
-2. Open a Stage 2 theory/evidence-audit Issue.
-3. Register/audit the available literature matrices and primary sources, compare candidate theoretical explanations, and only then report GRO-02.
-4. Do not proceed to method selection until FG1 framing is actually assessed and ready.
+1. Researcher verifies, revises, or rejects GRO-02.
+2. If GRO-02 is verified, integrate the theory direction and proceed to Stage 3 empirical-literature reconstruction/audit under a new bounded Issue.
+3. Do not select method, estimator, instrument, or novelty before the FG1 chain is completed and assessed.
 
-Researcher verification of GRO-01 does not produce ethics approval, participant access, a completed literature review, a passed quality gate, or an approved research design.
+Stage 2 work to date does not establish novelty, contribution, causal effects, an approved final variable model, or a passed quality gate.

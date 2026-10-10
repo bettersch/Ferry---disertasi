@@ -12,11 +12,11 @@ The only part of this file that is overwritten. Sections below keep their histor
 | Builder version / mode | 0.3.0 · RESEARCH |
 | Current stage | Stage 2 — Theoretical review and evidence audit |
 | Current flow gate | FG1 · NOT ASSESSED |
-| **Destination** | Establish a defensible explanation of Korbrimob's digital-modernization phenomenon from verified theory and empirical evidence before fixing constructs, questions, method, novelty, or contribution |
-| Awaiting your verification | NONE |
+| **Destination** | Explain the employee demand/resource health process with minimum sufficient theory while preserving the unresolved cross-level problem before Stage 3 fixes the empirical gap |
+| Awaiting your verification | GRO-02 |
 | Sections verified | 1 of 11 |
-| `brain.md` commit | 4be2fd1913aefadde573ac7cc8e32f0037856ac8 (initialization merge on `main`) |
-| Last updated / by | 2026-10-11 / researcher verification recorded by ChatGPT research agent |
+| `brain.md` commit | 7628451530382543f7ad03eb7ee0825cc56aafbd (Issue #5 branch checkpoint) |
+| Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
 
@@ -39,18 +39,16 @@ Korbrimob Polri is the locus of this dissertation. Its 2025–2029 strategic pla
 
 ## GRO-02 · Grand theory
 
-- Status: NOT YET REACHED
+- Status: REPORTED
 - Flow stage / gate: Stage 2 · FG1
-- Version: — · not yet written
-- Basis: —
+- Version: 1.0 · 2026-10-11 · PR #6
+- Basis: THR-001–THR-007; GAP-001; GAP-002; SRC-002–SRC-009; DEC-010–DEC-013
 - Verified by / date: —
 
-Reports which theory explains the phenomenon, why that one, and what role it plays in the study. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Job Demands–Resources Theory is proposed as Ferry’s primary grand theory because it directly organizes work characteristics as demands/resources and explains the health-impairment process toward burnout; its digital extensions accommodate Digital Job Demands without assuming digitization is inherently harmful. Organizational Support Theory remains a construct-specific foundation for POS, which may function as a candidate resource. Organizational resilience stays conceptually separate: Duchek’s anticipation–coping–adaptation framework defines an organizational capability, not an automatic person-level outcome. The principal unresolved theory problem is therefore the bridge from individual burnout to organizational resilience. COR remains a complementary resource-loss explanation, not a co-equal grand theory unless later evidence shows a distinct explanatory necessity.
 
-- What this forecloses: —
-- Not yet settled: —
+- What this forecloses: decorative multi-theory stacking; treating POS theory or resilience theory as co-equal grand theories without distinct necessity; assuming individual burnout automatically causes organizational resilience; equating digitization with Digital Job Demands.
+- Not yet settled: whether Digital Job Demands and POS survive Stage 3 as final constructs; the exact cross-level mechanism; final Y level/label; research questions; method and measurement.
 
 ## GRO-03 · Literature and gap
 
