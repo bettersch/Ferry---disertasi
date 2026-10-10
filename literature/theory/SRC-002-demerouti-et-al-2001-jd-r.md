@@ -5,7 +5,7 @@
 - STUDY ID: NOT ASSIGNED
 - Track: theory (Stage 2)
 - Found by: `RUN-003`; accessible original copy verified by `RUN-005`
-- Citation key: demrouti2001jdr
+- Citation key: demerouti2001jdr
 - Source type: peer-reviewed journal article
 - Metadata: Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001). The job demands-resources model of burnout. *Journal of Applied Psychology, 86*(3), 499–512.
 - DOI: 10.1037/0021-9010.86.3.499
