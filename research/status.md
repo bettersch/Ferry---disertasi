@@ -2,15 +2,15 @@
 
 Active stage: Stage 0–1 — context and phenomenon framing.
 Builder status: READY TO USE.
-Research status: INITIALIZATION / FRAMING IN PROGRESS.
+Research status: INITIALIZATION / FRAMING IN REVIEW.
 Workspace mode: RESEARCH.
 
 ## Active work
 
 - Initialization/framing Issue: #1 — `Initialize Ferry dissertation research workspace and framing`
 - Active branch: `issue-1-initialize-ferry-research`
-- Pull Request: NOT YET OPEN at this file version
-- GRO awaiting researcher verification: GRO-01 once reported in the initialization PR
+- Draft Pull Request: #2 — `Initialize Ferry dissertation workspace in RESEARCH mode`
+- GRO awaiting researcher verification: GRO-01 — REPORTED
 
 Delivery status belongs in Issue #1. This file records research-stage and academic-gate state.
 
@@ -27,7 +27,7 @@ A flow gate takes the most conservative status among the gates it bundles.
 
 | Gate | Status | Audit/evidence link |
 |---|---|---|
-| G0 Context | NOT ASSESSED | Issue #1; `research/project-brief.md`; `research/problem-memo.md`; `SRC-001` |
+| G0 Context | NOT ASSESSED | Issue #1; PR #2; `research/project-brief.md`; `research/problem-memo.md`; `SRC-001` |
 | G1 Problem | NOT ASSESSED | Issue #1; framing memo is preliminary |
 | G2 Protocol & evidence | NOT ASSESSED | Existing literature matrices require provenance/protocol audit |
 | G3 Theory & contribution | NOT ASSESSED | No theory, gap, novelty, or contribution approved |
@@ -46,8 +46,8 @@ The four existing variable-focused literature matrices remain available working 
 
 ## Next step
 
-1. Open and inspect the initialization PR.
-2. Report GRO-01 for researcher verification.
-3. Do not proceed to theory/method selection until the researcher verifies the Stage 0–1 direction and the required institutional/evidence unknowns are addressed.
+1. Researcher verifies, revises, or rejects GRO-01.
+2. After GRO-01 direction is resolved, register and audit the available theory/literature evidence needed for Stage 2–3.
+3. Do not proceed to method selection until FG1 framing is actually assessed and ready.
 
 Creating the initialization files does not produce ethics approval, participant access, a completed literature review, a passed quality gate, or an approved research design.
