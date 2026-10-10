@@ -22,7 +22,7 @@ Statements (`THR`): NOT YET REGISTERED.
 
 ### Current researchable problem boundary
 
-The locus evidence shows an organizational transition: Korbrimob is expected to maintain high-intensity operational capability while increasing the role of technology, data analytics, and technology-related personnel capability. What remains scientifically unexplained is **which employee-level and/or organizational conditions produced by or relevant to this transition are sufficiently distinct, measurable, and theoretically meaningful to warrant a dissertation-level explanatory study**.
+The locus evidence shows an organizational transition: Korbrimob is expected to maintain high-intensity operational capability while increasing the role of technology, data analytics, and technology-related personnel capability. What remains scientifically unexplained is **which employee-level and/or organizational conditions produced by or relevant to this transition are sufficiently distinct, measurable, and theoretically meaningful to warrant a doctoral-level explanatory study**.
 
 The current working title proposes Digital Job Demands, Perceived Organizational Support, Burnout, and Organizational Resilience. These are retained as **candidate concepts from prior project work**, not as final variables. Their role must be re-earned through theory and empirical-literature review.
 
