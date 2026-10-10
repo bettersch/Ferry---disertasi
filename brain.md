@@ -2,7 +2,7 @@
 
 Project: Ferry doctoral dissertation — Korbrimob Polri.
 Builder version: 0.3.0. Mode: RESEARCH.
-Last synced commit: 8c96ae8364aedb799f1f18e79cf1822936b6d694 (Issue #1 branch checkpoint before this brain sync). Synced by: ChatGPT research agent, 2026-10-11.
+Last synced commit: 4be2fd1913aefadde573ac7cc8e32f0037856ac8 (initialization merge on `main`). Synced by: ChatGPT research agent, 2026-10-11.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
