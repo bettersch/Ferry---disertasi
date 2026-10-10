@@ -30,7 +30,7 @@ Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, aw
 - Flow stage / gate: Stage 0–1 · FG0
 - Version: 1.0 · 2026-10-11 · PR #2
 - Basis: CTX-001; CTX-003; PHN-001; PHN-002; SRC-001; DEC-007; DEC-008
-- Verified by / date: Researcher (explicit chat verification) / 2026-10-11
+- Verified by / date: Researcher (explicit chat verification) / 11 October 2026
 
 Korbrimob Polri is the locus of this dissertation. Its 2025–2029 strategic plan documents continued high-intensity operational responsibilities alongside technology-based operations, data analytics, and a need to adapt personnel capabilities to increasingly complex information technology. These facts establish a modernization phenomenon, not a causal effect or scientific gap. The study will therefore determine which personnel-level and organizational conditions are actually implicated by that modernization and which remain unexplained after theory and empirical evidence are reviewed. The current working title and construct set are retained only as candidates. Paradigm, theory, research questions, method, novelty, and contribution remain undecided. The immediate goal is a defensible problem framing grounded in verified institutional and scholarly evidence.
 
