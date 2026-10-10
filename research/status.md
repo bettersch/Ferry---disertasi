@@ -2,7 +2,7 @@
 
 Active stage: Stage 3 empirical literature reconstruction — READY TO START; working Background deepened pre-GRO-03.
 Builder status: READY TO USE.
-Research status: GRO-02 VERIFIED / CONSTRUCT–FIELD–PROBLEM SCOPE LOCKED / STAGE 3 GO / BACKGROUND WORKING DRAFT UPDATED.
+Research status: GRO-02 VERIFIED / CONSTRUCT–FIELD–PROBLEM SCOPE LOCKED / STAGE 3 GO / BACKGROUND WORKING DRAFT MERGED.
 Workspace mode: RESEARCH.
 
 ## Active work
@@ -15,7 +15,7 @@ Workspace mode: RESEARCH.
 - #10 — candidate construct-fit audit: COMPLETED and merged
 - #11 — outcome label/level and cross-level mechanism: COMPLETED and merged
 - #12 — integrative construct scope lock: COMPLETED and merged
-- #26 — deepen/rewrite `1.1 Latar Belakang`: working branch in progress
+- #26 — deepen/rewrite `1.1 Latar Belakang`: COMPLETED and merged via PR #27
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - Manuscript language: Indonesian (`DEC-017`)
 - GRO-03: NOT YET REACHED; it requires Stage 3 empirical synthesis first
@@ -60,7 +60,7 @@ The working literature-audit sequence is `DJD/POS → Burnout → POR`, but dire
 
 ## Issue #26 Background position
 
-The revised working Background now integrates:
+The merged working Background integrates:
 - the multidimensional Renstra problem structure rather than a digital-only problem;
 - a documented 2026 Korbrimob digital capability implementation example (`SRC-011`);
 - police-specific digital technology comparators (`SRC-012`, `SRC-013`);
@@ -87,4 +87,4 @@ Stage 3 searches must include: general operational workload and digital capabili
 
 ## Next step
 
-Merge Issue #26 after validation. Then open one bounded Stage 3 empirical-literature Issue derived from `research/construct-lock-matrix.md`; reconstruct construct-specific, relation-specific, rival and counterevidence sets before reporting GRO-03.
+When requested, open one bounded Stage 3 empirical-literature Issue derived from `research/construct-lock-matrix.md`; reconstruct construct-specific, relation-specific, rival and counterevidence sets before reporting GRO-03.
