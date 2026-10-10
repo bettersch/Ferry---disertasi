@@ -22,7 +22,7 @@ The only part of this file that is overwritten. Sections below keep their histor
 
 Read it top to bottom and you have the whole study: what it is about, which theory, which gap, which questions, which method, what was found, and what it means — each with its reasoning. To check only what needs you, read the sections marked `REPORTED` above.
 
-Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, awaiting you) → `VERIFIED` (you agreed, with your name and the date) or `REVISED` (you asked for a different direction, or new evidence changed it — the section is rewritten and re-reported). **The AI never marks a section `VERIFIED`.**
+Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, awaiting you) → `VERIFIED` (you agreed, with a name and a date) or `REVISED` (you asked for a different direction, or new evidence changed it — the section is rewritten and re-reported). **The AI never marks a section `VERIFIED`.**
 
 ## GRO-01 · Introduction
 
@@ -45,7 +45,9 @@ Korbrimob Polri is the locus of this dissertation. Its 2025–2029 strategic pla
 - Basis: —
 - Verified by / date: —
 
-Reports which theory explains the phenomenon, why that one, and what role it plays in the study. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports which theory explains the phenomenon, why that one, and what role it plays in the study. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -58,7 +60,9 @@ Reports which theory explains the phenomenon, why that one, and what role it pla
 - Basis: —
 - Verified by / date: —
 
-Reports what the empirical literature shows, and the gap that follows from it. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports what the empirical literature shows, and the gap that follows from it. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -71,7 +75,9 @@ Reports what the empirical literature shows, and the gap that follows from it. O
 - Basis: —
 - Verified by / date: —
 
-Reports where this study stands against the state of the art. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports where this study stands against the state of the art. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -84,7 +90,9 @@ Reports where this study stands against the state of the art. One paragraph, at 
 - Basis: —
 - Verified by / date: —
 
-Reports the questions, and why they are phrased and bounded this way. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports the questions, and why they are phrased and bounded this way. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -97,7 +105,9 @@ Reports the questions, and why they are phrased and bounded this way. One paragr
 - Basis: —
 - Verified by / date: —
 
-Reports the approach and design, and why they fit the questions and the paradigm. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports the approach and design, and why they fit the questions and the paradigm. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -110,7 +120,9 @@ Reports the approach and design, and why they fit the questions and the paradigm
 - Basis: —
 - Verified by / date: —
 
-Reports where the data comes from, how it is cleaned and analyzed, and why. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports where the data comes from, how it is cleaned and analyzed, and why. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -123,7 +135,9 @@ Reports where the data comes from, how it is cleaned and analyzed, and why. One 
 - Basis: —
 - Verified by / date: —
 
-Reports what the data shows and how it answers each research question. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports what the data shows and how it answers each research question. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -136,7 +150,9 @@ Reports what the data shows and how it answers each research question. One parag
 - Basis: —
 - Verified by / date: —
 
-Reports what the findings mean against the theory and the literature. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports what the findings mean against the theory and the literature. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -149,7 +165,9 @@ Reports what the findings mean against the theory and the literature. One paragr
 - Basis: —
 - Verified by / date: —
 
-Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -162,7 +180,9 @@ Reports the answers to the questions, the limits, and what follows from them. On
 - Basis: —
 - Verified by / date: —
 
-Reports how the argument is arranged and why. One paragraph, at most ~120 words, stating where this part takes the research and why.
+Reports how the argument is arranged and why. One paragraph, at most ~120 words, stating the direction this
+part takes and the reasoning behind it, written for someone who has not read the
+repository.
 
 - What this forecloses: —
 - Not yet settled: —
