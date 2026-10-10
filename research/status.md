@@ -2,14 +2,14 @@
 
 Active stage: Stage 0–1 — context and phenomenon framing.
 Builder status: READY TO USE.
-Research status: INITIALIZATION / FRAMING IN REVIEW.
+Research status: INITIALIZED / AWAITING RESEARCHER VERIFICATION.
 Workspace mode: RESEARCH.
 
 ## Active work
 
 - Initialization/framing Issue: #1 — `Initialize Ferry dissertation research workspace and framing`
-- Active branch: `issue-1-initialize-ferry-research`
-- Draft Pull Request: #2 — `Initialize Ferry dissertation workspace in RESEARCH mode`
+- Initialization Pull Request: #2 — MERGED
+- Initialization merge commit on `main`: `4be2fd1913aefadde573ac7cc8e32f0037856ac8`
 - GRO awaiting researcher verification: GRO-01 — REPORTED
 
 Delivery status belongs in Issue #1. This file records research-stage and academic-gate state.
@@ -50,4 +50,4 @@ The four existing variable-focused literature matrices remain available working 
 2. After GRO-01 direction is resolved, register and audit the available theory/literature evidence needed for Stage 2–3.
 3. Do not proceed to method selection until FG1 framing is actually assessed and ready.
 
-Creating the initialization files does not produce ethics approval, participant access, a completed literature review, a passed quality gate, or an approved research design.
+Creating or merging the initialization files does not produce ethics approval, participant access, a completed literature review, a passed quality gate, or an approved research design.
