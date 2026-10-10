@@ -1,6 +1,6 @@
 # Research Status
 
-Active stage: Pre-Stage-3 construct lock completed; Stage 3 empirical literature reconstruction is READY TO START.
+Active stage: Stage 3 empirical literature reconstruction — READY TO START.
 Builder status: READY TO USE.
 Research status: GRO-02 VERIFIED / CONSTRUCT–FIELD–PROBLEM SCOPE LOCKED / STAGE 3 GO.
 Workspace mode: RESEARCH.
@@ -14,10 +14,10 @@ Workspace mode: RESEARCH.
 - #9 — problem architecture and rival explanations: COMPLETED and merged
 - #10 — candidate construct-fit audit: COMPLETED and merged
 - #11 — outcome label/level and cross-level mechanism: COMPLETED and merged
-- #12 — integrative construct scope lock: COMPLETED on branch, pending merge
-- Active branch: `issue-12-final-construct-lock`
+- #12 — integrative construct scope lock: COMPLETED and merged through PR #24
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - GRO-03: NOT YET REACHED; it requires Stage 3 empirical synthesis first
+- Next work: open one bounded Stage 3 empirical-literature Issue derived from `research/construct-lock-matrix.md`
 
 Delivery status belongs in the relevant Issue. This file records research-stage and academic-gate state.
 
@@ -73,4 +73,4 @@ Stage 3 searches must include: general operational workload and digital capabili
 
 ## Next step
 
-After #12 is merged, start a new bounded Stage 3 empirical-literature Issue derived from `research/construct-lock-matrix.md`. Build construct-specific and relation-specific search parameters that include the mandatory rivals before reporting GRO-03.
+Create one Stage 3 empirical-literature Issue. Build construct-specific and relation-specific search parameters from `research/construct-lock-matrix.md`, explicitly include the mandatory rivals/counterevidence, reconstruct/audit the empirical corpus, and only then report GRO-03.
