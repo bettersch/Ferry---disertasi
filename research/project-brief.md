@@ -31,7 +31,7 @@ This is an actual research workspace. Substantive work follows the Issue → bra
 
 ## Language policy
 
-Repository documentation remains in English. The primary dissertation-output language is a decision needed. Source material stays in its original language. Translation must preserve attribution, uncertainty, and technical meaning.
+Repository documentation remains in English. The primary dissertation output language is a decision needed. Source material stays in its original language. Translation must preserve attribution, uncertainty, and technical meaning.
 
 ## Standards adoption
 
