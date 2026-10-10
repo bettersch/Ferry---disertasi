@@ -2,7 +2,7 @@
 
 Project: Ferry doctoral dissertation — Korbrimob Polri.
 Builder version: 0.3.0. Mode: RESEARCH.
-Last synced commit: 97ca51d4f7062b4c51e5963e6457f41dfc4a7701 (Issue #5 branch checkpoint before this brain sync). Synced by: ChatGPT research agent, 2026-10-11.
+Last synced commit: Issue #29 working branch; final merge SHA pending. Synced by: ChatGPT research agent, 2026-10-11.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
@@ -53,53 +53,63 @@ Locus: Korbrimob Polri. The Stage 1 phenomenon is institutional digital moderniz
 
 ## Stage 2 — Theory (`THR`) and theory gaps (`GAP`)
 
-Grand theory: **Job Demands–Resources Theory — PROPOSED pending researcher verification of GRO-02** (original source `SRC-002`). Role at Stage 2: explanatory lens for demand/resource and health-impairment mechanisms; hypothesis-generator status is deferred until research questions are established. Targeted theory verification used `PRM-001` and `RUN-001`–`RUN-005`; no Scopus/Web of Science development search was executed in this session.
+Grand theory: **Job Demands–Resources Theory — VERIFIED at GRO-02** (original source `SRC-002`). Role at Stage 2: explanatory lens for demand/resource and health-impairment mechanisms; hypothesis-generator status remains deferred until research questions are established. Targeted theory verification used `PRM-001` and `RUN-001`–`RUN-005`; no Scopus/Web of Science development search was executed in that session.
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
 | THR-001 | JD-R theory treats work characteristics as job demands and job resources that have different implications for employee strain or burnout and motivation. | SUPPORTED | SRC-002; SRC-003; PRM-001 | PHN-001; PHN-002 | THR-002; THR-003 | Theory | FG1 |  |
-| THR-002 | The JD-R health-impairment pathway provides a direct theoretical basis for examining burnout as a downstream employee-level condition under sustained demands and insufficient resources. | SUPPORTED | SRC-002; SRC-003 | THR-001 | GAP-001 | Theory | FG1 |  |
-| THR-003 | Digitization can be represented within JD-R as both Digital Job Demands and Digital Job Resources rather than as an inherently harmful exposure. | SUPPORTED | SRC-004; SRC-005 | PHN-001; PHN-002; THR-001 | THR-004; GAP-002 | Theory | FG1 |  |
-| THR-004 | Digital Job Demands are candidate demand characteristics arising from digital-technology use that require sustained effort and are conceptually distinct from strain or burnout responses. | SUPPORTED | SRC-004; SRC-005 | THR-003 | GAP-002 | Theory | FG1 |  |
-| THR-005 | Perceived Organizational Support is an employee's global belief that the organization values the employee's contribution and cares about well-being, while Organizational Support Theory and social-exchange logic are construct-specific rather than an explanation of the whole candidate model. | SUPPORTED | SRC-006; SRC-007 | THR-001 | GAP-001 | Theory | FG1 |  |
-| THR-006 | Organizational resilience is an organizational capability or process involving anticipation, coping, and adaptation rather than an individual psychological trait. | SUPPORTED | SRC-008 | PHN-001 | GAP-001 | Theory | FG1 |  |
+| THR-002 | The JD-R health-impairment pathway provides a direct theoretical basis for examining burnout as a downstream employee-level condition under sustained demands and insufficient resources. | SUPPORTED | SRC-002; SRC-003 | THR-001 | GAP-001; LIT-001; LIT-002 | Theory | FG1 |  |
+| THR-003 | Digitization can be represented within JD-R as both Digital Job Demands and Digital Job Resources rather than as an inherently harmful exposure. | SUPPORTED | SRC-004; SRC-005 | PHN-001; PHN-002; THR-001 | THR-004; GAP-002; LIT-005 | Theory | FG1 |  |
+| THR-004 | Digital Job Demands are candidate demand characteristics arising from digital-technology use that require sustained effort and are conceptually distinct from strain or burnout responses. | SUPPORTED | SRC-004; SRC-005 | THR-003 | GAP-002; LIT-001 | Theory | FG1 |  |
+| THR-005 | Perceived Organizational Support is an employee's global belief that the organization values the employee's contribution and cares about well-being, while Organizational Support Theory and social-exchange logic are construct-specific rather than an explanation of the whole candidate model. | SUPPORTED | SRC-006; SRC-007 | THR-001 | GAP-001; LIT-002 | Theory | FG1 |  |
+| THR-006 | Organizational resilience is an organizational capability or process involving anticipation, coping, and adaptation rather than an individual psychological trait. | SUPPORTED | SRC-008 | PHN-001 | GAP-001; LIT-004; LIT-005 | Theory | FG1 |  |
 | THR-007 | Conservation of Resources theory provides a plausible resource-loss explanation for stress, but the evidence inspected so far does not show a necessary organizing function beyond JD-R for the candidate demand/resource-to-burnout process. | INFERRED | SRC-009; SRC-002; SRC-003; DEC-013 | THR-001; THR-002 | GAP-001 | Theory | FG1 |  |
 
 Constructs derived from the theory (basis of Stage 3 keyword development; not final study variables):
 
 | Construct/domain | Definition/status | From `THR` | Keyword parameter set |
 |---|---|---|---|
-| Job demands | work characteristics requiring sustained effort; native JD-R category | THR-001; THR-002 | NOT YET CREATED |
-| Job resources | work characteristics/resources that support functioning and can reduce demand costs; native JD-R category | THR-001; THR-002 | NOT YET CREATED |
-| Burnout | employee-level health-impairment condition compatible with JD-R | THR-002 | NOT YET CREATED |
-| Digital Job Demands | digital extension of the job-demand category; candidate, not yet locked for Korbrimob | THR-003; THR-004 | NOT YET CREATED |
-| Perceived Organizational Support | OST-defined perception that may function as a candidate JD-R resource; not native to original JD-R | THR-005 | NOT YET CREATED |
-| Organizational Resilience | separate organizational capability/process domain, not derived from JD-R | THR-006 | NOT YET CREATED |
+| Job demands | work characteristics requiring sustained effort; native JD-R category | THR-001; THR-002 | PRM-002 |
+| Job resources | work characteristics/resources that support functioning and can reduce demand costs; native JD-R category | THR-001; THR-002 | PRM-002 |
+| Burnout | employee-level health-impairment condition compatible with JD-R | THR-002 | PRM-002 |
+| Digital Job Demands | bounded digital extension of the job-demand category | THR-003; THR-004 | PRM-002 |
+| Perceived Organizational Support | OST-defined employee perception used as a candidate JD-R resource | THR-005 | PRM-002 |
+| Organizational Resilience / POR boundary | true OR remains organizational-level; employee-rated POR is a distinct person-level perception domain | THR-006 | PRM-002 |
 
 Theory gaps — what the theory has not explained or tested for this phenomenon:
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
-| GAP-001 | The inspected JD-R and organizational-resilience theory sources do not establish a mechanism by which individual-level burnout becomes organizational-level resilience capability, so the cross-level bridge in the prior Ferry model remains theoretically unresolved. | INFERRED | SRC-002; SRC-003; SRC-008; DEC-012 | THR-002; THR-005; THR-006; THR-007 |  | Theory/gap | FG1 |  |
-| GAP-002 | Digital Job Demands are theoretically supported as a digital extension of JD-R, but their relevant content and boundary conditions in hierarchical high-reliability policing cannot be inferred from white-collar digital-work studies or from Korbrimob modernization evidence alone. | INFERRED | SRC-004; SRC-005; SRC-001 | PHN-001; PHN-002; THR-003; THR-004 |  | Theory/gap | FG1 |  |
+| GAP-001 | The inspected JD-R and organizational-resilience theory sources do not establish a mechanism by which individual-level burnout becomes organizational-level resilience capability, so the cross-level bridge in the prior Ferry model remains theoretically unresolved. | INFERRED | SRC-002; SRC-003; SRC-008; DEC-012 | THR-002; THR-005; THR-006; THR-007 | GAP-004 | Theory/gap | FG1 |  |
+| GAP-002 | Digital Job Demands are theoretically supported as a digital extension of JD-R, but their relevant content and boundary conditions in hierarchical high-reliability policing cannot be inferred from white-collar digital-work studies or from Korbrimob modernization evidence alone. | INFERRED | SRC-004; SRC-005; SRC-001 | PHN-001; PHN-002; THR-003; THR-004 | GAP-003 | Theory/gap | FG1 |  |
 
 ## Stage 3 — Empirical literature patterns (`LIT`) and research gaps (`GAP`)
 
-Matrix: `literature/literature-review/matrix.md`. Search parameter set: NOT YET FILLED. Screening parameter set: NOT YET FILLED.
+Matrix: `literature/literature-review/matrix.md`. Search parameter set: `PRM-002`. Screening parameter set: `PRM-003`. Runs: `RUN-006`–`RUN-011`.
 
-Patterns — what the literature agrees on, disputes, or has not examined (three to five statements, not one per article):
-
-| ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
-|---|---|---|---|---|---|---|---|---|
-
-Research gaps — what has not been studied, in which context, with which method:
+Patterns — what the literature agrees on, disputes, or has not examined:
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
+| LIT-001 | Specific digital work demands or technostressors are repeatedly associated with exhaustion or burnout-related strain, but direct evidence using a distinct bounded DJD construct in policing remains sparse. | SUPPORTED | SRC-012; SRC-013; SRC-020; SRC-021; SRC-022; SRC-028; RUN-006; RUN-010 | THR-002; THR-004 | GAP-003 | Literature review / Introduction | FG1 |  |
+| LIT-002 | POS or organizational support shows comparatively consistent negative associations with police burnout, emotional exhaustion, or stress, while buffering effects vary by support type and pathway. | SUPPORTED | SRC-012; SRC-014; SRC-018; SRC-019; SRC-021; RUN-007; RUN-010 | THR-002; THR-005 | GAP-004 | Literature review / Introduction | FG1 |  |
+| LIT-003 | The focused corpus does not establish burnout as an antecedent or mediator of POR, and available evidence supports plausible reverse or common-cause configurations in which adaptive or resilient organizational conditions are associated with lower exhaustion or burnout. | INFERRED | SRC-023; SRC-027; SRC-010; SRC-016; RUN-008 | GAP-001; THR-006 | GAP-004 | Literature review / gap | FG1 |  |
+| LIT-004 | Employee-rated organizational resilience is empirically feasible, but POR remains heterogeneous and must be distinguished from true organizational resilience, readiness, agility, effectiveness, and individual resilience. | SUPPORTED | SRC-010; SRC-016; SRC-024; RUN-011 | THR-006 | GAP-005 | Literature review / measurement boundary | FG1 |  |
+| LIT-005 | Digitalization has a dual empirical position because employee-level digital demands can generate strain while organization-level digital capabilities can strengthen adaptation and true organizational resilience. | SUPPORTED | SRC-020; SRC-022; SRC-024; SRC-025; SRC-026; RUN-009 | THR-003; THR-006 | GAP-003; GAP-004 | Literature review / Introduction | FG1 |  |
+
+Research gaps — provisional unresolved empirical problems from the focused search:
+
+| ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
+|---|---|---|---|---|---|---|---|---|
+| GAP-003 | The focused Stage 3 search did not identify a policing or high-reliability study that cleanly isolates a bounded DJD construct from general operational workload and digital-skill mismatch while testing burnout. | INFERRED | RUN-006; RUN-010; SRC-013; SRC-020; SRC-022; SRC-028; PRM-002; PRM-003 | GAP-002; LIT-001; LIT-005 |  | Literature gap / Introduction | FG1 |  |
+| GAP-004 | The focused Stage 3 corpus does not establish burnout as an antecedent or mediator of POR and contains credible reverse-direction evidence linking resilient or adaptive organizational conditions with lower exhaustion or burnout. | INFERRED | RUN-008; SRC-023; SRC-027; SRC-010; SRC-016; LIT-002; LIT-003 | GAP-001; LIT-003 |  | Literature gap / model revision | FG1 |  |
+| GAP-005 | The construct and measurement distinctness of POR from POS, perceived readiness or agility, and general organizational-effectiveness perceptions remains unresolved for policing. | INFERRED | RUN-011; SRC-010; SRC-016; SRC-024; LIT-004 | THR-006; LIT-004 |  | Literature gap / measurement | FG1 |  |
+
+Stage 3 decision: **GRO-03 requires revision before verification.** Upstream DJD/POS→Burnout architecture is empirically plausible, but the downstream Burnout→POR mediation bridge is not yet sufficiently supported and should not be frozen as a causal model.
 
 ## Stage 4 — State of the art, novelty (`NOV`), research questions (`RQ`), contribution (`CTB`), implications promised (`IMP`)
 
-State of the art = Phenomenon × (Theory + Literature): NOT YET FILLED.
+State of the art = Phenomenon × (Theory + Literature): NOT YET FILLED pending resolution of GAP-004 and final Stage 3 parity/citation-chasing checks.
 
 Novelty — the position of this study relative to the state of the art; it must answer a theory gap, a research gap, or both:
 
@@ -199,7 +209,7 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 |---|---|---|---|
 | Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | PASS for current Stage 2 links | PHN-001; PHN-002 |
 | Theory does work | every `THR` is used by a `DIS` in Stage 7 or explicitly found not relevant | NOT ASSESSED | THR-001–THR-007 |
-| Gaps are motivated | every `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ` | NOT ASSESSED | GAP-001; GAP-002 |
+| Gaps are motivated | every `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ` | NOT ASSESSED | GAP-001–GAP-005 |
 | Questions are grounded | every `RQ` has upstream `GAP` and `NOV` | NOT ASSESSED | |
 | Questions are answered | every `RQ` has at least one `FND` (FG3) and one `CCL` (FG4) | NOT ASSESSED | |
 | Findings have evidence | every `FND` lists at least one `DAT` or `RUN` | NOT ASSESSED | |
