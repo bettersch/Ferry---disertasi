@@ -4,7 +4,7 @@
 - SRC ID: SRC-016
 - Track: targeted empirical evidence for Issue #26
 - Source type: peer-reviewed open-access journal article
-- Metadata: Giovannini, C., & Giauque, D. (2024). Key factors of organizational resilience in prisons and police forces in French-speaking Switzerland during COVID-19. *Merits, 4*(1).
+- Metadata: Giovannini, C., & Giauque, D. (2024). Key factors of organizational resilience in prisons and police forces in French-speaking Switzerland during COVID-19. *Merits, 4*(1), 51–65.
 - DOI: 10.3390/merits4010004
 - Design: qualitative; 25 semi-structured interviews with executives across cantonal police and prison institutions
 - Retrieval: publisher/open full text and Elicit, 2026-10-11
