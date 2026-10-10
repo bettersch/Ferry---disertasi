@@ -1,8 +1,8 @@
 # Research Status
 
-Active stage: Pre-Stage-3 — construct–field–problem lock.
+Active stage: Pre-Stage-3 construct lock completed; Stage 3 empirical literature reconstruction is READY TO START.
 Builder status: READY TO USE.
-Research status: GRO-02 VERIFIED / FIELD + PROBLEM + CONSTRUCT FIT + OUTCOME LEVEL RESOLVED / FINAL LOCK NEXT.
+Research status: GRO-02 VERIFIED / CONSTRUCT–FIELD–PROBLEM SCOPE LOCKED / STAGE 3 GO.
 Workspace mode: RESEARCH.
 
 ## Active work
@@ -13,10 +13,11 @@ Workspace mode: RESEARCH.
 - #8 — Renstra-grounded field/problem evidence map: COMPLETED and merged
 - #9 — problem architecture and rival explanations: COMPLETED and merged
 - #10 — candidate construct-fit audit: COMPLETED and merged
-- #11 — outcome label/level and cross-level mechanism: COMPLETED on branch, pending merge
-- Active branch: `issue-11-outcome-level-resolution`
+- #11 — outcome label/level and cross-level mechanism: COMPLETED and merged
+- #12 — integrative construct scope lock: COMPLETED on branch, pending merge
+- Active branch: `issue-12-final-construct-lock`
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
-- Next substantive Issue: #12 — integrative construct lock + GO/NO-GO for Stage 3
+- GRO-03: NOT YET REACHED; it requires Stage 3 empirical synthesis first
 
 Delivery status belongs in the relevant Issue. This file records research-stage and academic-gate state.
 
@@ -29,55 +30,47 @@ Delivery status belongs in the relevant Issue. This file records research-stage 
 | FG4 Manuscript | G7 | NOT ASSESSED |
 | FG5 Revision | reopened gates + G7 | NOT APPLICABLE until reviewer comments arrive |
 
-Researcher verification of a GRO direction is not itself a quality-gate pass.
+A Stage 3 GO decision is not a quality-gate pass.
 
 | Gate | Status | Audit/evidence link |
 |---|---|---|
 | G0 Context | NOT ASSESSED | GRO-01 verified; `SRC-001` |
-| G1 Problem | NOT ASSESSED | Field map, problem architecture, construct-fit audit and outcome-level resolution completed; final lock still pending (#12) |
-| G2 Protocol & evidence | NOT ASSESSED | Stage 3 empirical reconstruction not started |
-| G3 Theory & contribution | NOT ASSESSED | GRO-02 verified; final construct architecture and contribution remain unsettled |
+| G1 Problem | NOT ASSESSED | Field map, problem architecture, construct-fit audit, outcome-level resolution, and pre-Stage-3 scope lock completed; empirical gap synthesis still pending |
+| G2 Protocol & evidence | NOT ASSESSED | Stage 3 empirical search/reconstruction not yet executed |
+| G3 Theory & contribution | NOT ASSESSED | GRO-02 verified; novelty/contribution remain unclaimed |
 | G4 Design | NOT ASSESSED | Method/design intentionally deferred |
 | G5 Execution readiness | NOT ASSESSED | Access, permissions, ethics, instruments, and procedures unverified |
 | G6 Results & interpretation | NOT ASSESSED | No data analysis performed |
 | G7 Manuscript & examination/review | NOT ASSESSED | Not reached |
 
-## Verified theory position
+## Verified theory and field architecture
 
-JD-R is the primary grand theory; Organizational Support Theory is retained only as the construct-specific foundation for POS; Duchek's organizational-resilience capability/process perspective defines true organization-level resilience; COR remains a comparator/complement.
+JD-R remains the primary grand theory. The retained field problem is **high-intensity modernization under a demand–resource configuration**, not digitization-as-harm by assumption. Renstra remains mandatory institutional guidance and also documents serious rival explanations involving operational intensity, capability mismatch, leadership, staffing, welfare/resources and organizational performance/adaptation.
 
-## Current problem architecture
+## Final pre-Stage-3 scope lock
 
-The retained architecture is **high-intensity modernization under a demand–resource configuration**. Digital work demand is one candidate demand domain, not the whole problem. Leadership, staffing, capability mismatch and objective resource scarcity remain explicit rivals/common causes.
+- **Digital Job Demands:** `NARROW` — Stage 3 focuses only on digital work characteristics that require sustained effort; technology exposure or skill deficiency alone is not DJD.
+- **Perceived Organizational Support:** `LOCK for Stage 3 focal review` — as the candidate employee-perceived resource, without assuming Korbrimob POS is low.
+- **Burnout:** `LOCK for Stage 3 focal review` — as the JD-R health-impairment candidate, without assuming prevalence in Korbrimob.
+- **True Organizational Resilience:** `REPLACE` in the current person-level architecture.
+- **Perceived Organizational Resilience (POR):** `LOCK as working Stage 3 outcome domain` at the individual-perception level; it must not be reported as actual organization-level resilience.
 
-## Provisional construct-fit result
+The working literature-audit sequence is `DJD/POS → Burnout → POR`, but direct paths, reverse direction, common causes, mediation and causal effects remain open. This is an evidence-search architecture, not a final causal model.
 
-- Digital Job Demands: **NARROW**.
-- Perceived Organizational Support: **DEFER**.
-- Burnout: **DEFER**.
-- True Organizational Resilience as an individual-level outcome: **REJECT** for the current architecture.
+## Mandatory Stage 3 rival coverage
 
-## Outcome/level resolution
+Stage 3 searches must include: general operational workload and digital capability mismatch alongside DJD; supervisor/leadership support and objective resources alongside POS; fatigue/trauma/general distress alongside Burnout; and readiness/agility/adaptive performance/operational effectiveness/true organizational resilience alongside POR. Leadership, staffing, resource scarcity and operational/crisis severity remain common-cause candidates.
 
-The working downstream outcome is narrowed to **Perceived Organizational Resilience (POR)** at the individual-perception level. It represents personnel perceptions of the organization's capacity to anticipate, cope and adapt; it must not be reported as actual Korbrimob organizational resilience.
+## GO decision
 
-True organization/unit-level resilience can only be reopened if later data support unit/organization-level operationalization and defensible aggregation or multilevel inference. The burnout→POR bridge is now level-compatible as a person-level association, but causal direction remains unresolved.
-
-## Lean six-Issue sequence
-
-1. #14 — completed and merged.
-2. #8 — completed and merged.
-3. #9 — completed and merged.
-4. #10 — completed and merged.
-5. #11 — completed, pending merge.
-6. #12 — final integrative construct lock + GO/NO-GO for Stage 3.
+**GO to Stage 3 empirical literature reconstruction.** The constructs are sufficiently bounded to support reproducible search sets while rivals and counterevidence are explicitly retained. GRO-03 must wait until that empirical synthesis is complete.
 
 ## Access limits
 
-- No comprehensive Stage 3 empirical literature reconstruction has yet been executed.
-- Existing matrices remain working evidence maps pending Stage 3 audit.
-- `SRC-010` is targeted abstract/metadata verification only and does not establish a final POR measurement instrument.
+- The existing four matrices remain working evidence maps, not a completed repository-grade Stage 3 review.
+- `SRC-010` is targeted abstract/metadata verification and does not establish a final POR scale.
+- No method, instrument, estimator, hypothesis, novelty, contribution or causal mediation is approved by the scope lock.
 
 ## Next step
 
-Merge #11 after repository validation, then execute #12. Do not report GRO-03, novelty, final RQs/hypotheses, method, estimator or instrument before #12 returns the final pre-Stage-3 decision.
+After #12 is merged, start a new bounded Stage 3 empirical-literature Issue derived from `research/construct-lock-matrix.md`. Build construct-specific and relation-specific search parameters that include the mandatory rivals before reporting GRO-03.
