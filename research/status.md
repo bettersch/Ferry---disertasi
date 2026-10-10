@@ -1,18 +1,19 @@
 # Research Status
 
-Active stage: Stage 2 — theoretical review and evidence audit.
+Active stage: Pre-Stage-3 — construct–field–problem lock.
 Builder status: READY TO USE.
-Research status: STAGE 2 THEORY DIRECTION REPORTED / AWAITING RESEARCHER VERIFICATION.
+Research status: GRO-02 VERIFIED / CONSTRUCT–FIELD LOCK IN PROGRESS.
 Workspace mode: RESEARCH.
 
 ## Active work
 
 - Initialization/framing Issue: #1 — CLOSED after GRO-01 verification
 - GRO-01: VERIFIED by researcher on 2026-10-11
-- Stage 2 Issue: #5 — `Stage 2 — Audit theory and Ferry literature evidence for GRO-02`
-- Active branch: `issue-5-theory-evidence-audit`
-- Pull Request: #6 — draft/in review
-- GRO-02: REPORTED, awaiting researcher verification
+- Stage 2 theory Issue: #5 — theory/evidence audit completed and integrated
+- GRO-02: VERIFIED by researcher on 2026-10-11
+- Current synchronization Issue: #14 — record verification and Renstra guideline status
+- Active branch: `issue-14-gro02-renstra-guideline`
+- Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 
 Delivery status belongs in the relevant Issue. This file records research-stage and academic-gate state.
 
@@ -30,32 +31,41 @@ Researcher verification of a GRO direction is not itself a quality-gate pass.
 | Gate | Status | Audit/evidence link |
 |---|---|---|
 | G0 Context | NOT ASSESSED | Issue #1; GRO-01 verified; `SRC-001` |
-| G1 Problem | NOT ASSESSED | Stage 2 theory gaps registered but Stage 3 empirical synthesis not completed |
-| G2 Protocol & evidence | NOT ASSESSED | `PRM-001` targeted verification only; no Scopus/WoS run; four prior matrices inspected but not reconstructed as repository-grade systematic review |
-| G3 Theory & contribution | NOT ASSESSED | Issue #5; `literature/theory/theory-map.md`; GRO-02 awaits researcher verification; contribution remains unclaimed |
+| G1 Problem | NOT ASSESSED | Field/problem architecture and construct lock still in progress (#8–#12) |
+| G2 Protocol & evidence | NOT ASSESSED | `PRM-001` targeted theory verification only; Stage 3 empirical reconstruction not started |
+| G3 Theory & contribution | NOT ASSESSED | GRO-02 verified; contribution and final construct architecture remain unsettled |
 | G4 Design | NOT ASSESSED | Method/design intentionally deferred |
 | G5 Execution readiness | NOT ASSESSED | Access, permissions, ethics, instruments, and procedures unverified |
 | G6 Results & interpretation | NOT ASSESSED | No data analysis performed |
 | G7 Manuscript & examination/review | NOT ASSESSED | Not reached |
 
-## Current Stage 2 evidence position
+## Verified theory position
 
-The original JD-R source and contemporary JD-R developments have been registered alongside Digital Job Demands extensions, original/review POS sources, Duchek's organizational-resilience capability framework, and COR as an alternative resource-loss theory. The current proposed architecture is deliberately parsimonious: JD-R as primary grand theory; Organizational Support Theory as POS-specific foundation; Duchek as outcome-domain conceptual framework; COR as a deferred complementary mechanism.
+The current theory architecture is now researcher-verified: JD-R is the primary grand theory; Organizational Support Theory is retained only as the construct-specific foundation for POS; Duchek's organizational-resilience capability/process perspective defines the outcome domain; COR remains a comparator/complement rather than a co-equal grand theory.
 
-The four existing Ferry matrices have been inspected as working evidence maps. They consistently support construct separation and preserve mixed/null evidence, but their internal quality-control `PASS` labels are not treated as repository G2/G3 assessments.
+This verification does **not** lock Digital Job Demands, POS, Burnout, or Organizational Resilience as final constructs. The unresolved structural problem remains the bridge between individual burnout and an organizational-level resilience capability.
 
-The main unresolved theoretical problem is the level/mechanism bridge from individual burnout to organizational resilience capability. This remains an explicit theory gap rather than an assumed path.
+## Mandatory field guideline
+
+`SRC-001` — Renstra Korbrimob Polri 2025–2029 — is mandatory primary institutional guidance for locus/problem alignment. It can establish documented organizational conditions, weaknesses, priorities, strategic responses, capability needs, and targets. It cannot by itself establish employee-level perceptions, Digital Job Demands intensity, POS, burnout prevalence, resilience scores, causal effects, mediation, or novelty.
+
+## Lean six-Issue sequence
+
+1. #14 — record GRO-02 verification and Renstra guideline decision.
+2. #8 — build the Renstra-grounded field/problem evidence map.
+3. #9 — test problem architecture and rival explanations.
+4. #10 — audit candidate construct fit.
+5. #11 — resolve outcome label/level and the cross-level mechanism.
+6. #12 — integrative construct lock and GO/NO-GO for Stage 3.
+
+No separate Stage 3 reservation Issue is maintained. If #12 returns GO, Stage 3 empirical literature/gap work will be opened then.
 
 ## Access limits
 
 - Consensus search was attempted but blocked by the monthly quota and is logged as `RUN-001`.
-- No Scopus/Web of Science theory-development search was executed in this session.
-- Current searches under `PRM-001` are targeted source verification, not comprehensive-review coverage.
+- No comprehensive Scopus/Web of Science empirical reconstruction has yet been executed.
+- Existing literature matrices remain useful working maps but are not treated as repository-grade systematic review evidence without further audit.
 
 ## Next step
 
-1. Researcher verifies, revises, or rejects GRO-02.
-2. If GRO-02 is verified, integrate the theory direction and proceed to Stage 3 empirical-literature reconstruction/audit under a new bounded Issue.
-3. Do not select method, estimator, instrument, or novelty before the FG1 chain is completed and assessed.
-
-Stage 2 work to date does not establish novelty, contribution, causal effects, an approved final variable model, or a passed quality gate.
+Complete Issue #14, then execute #8. Do not report GRO-03, novelty, final RQs/hypotheses, method, estimator, or instrument before #12 produces a coherent construct-lock decision and GO status.
