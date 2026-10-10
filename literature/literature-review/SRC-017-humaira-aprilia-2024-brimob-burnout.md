@@ -4,11 +4,11 @@
 - SRC ID: SRC-017
 - Track: targeted empirical evidence for Issue #26
 - Source type: peer-reviewed/open journal article
-- Metadata: Humaira, Y., & Aprilia, E. D. (2024). Workplace spirituality to reduce burnout in members of the Regional Police Mobile Brigade. *SEURUNE: Jurnal Psikologi Unsyiah, 7*(1).
+- Metadata: Humaira, Y., & Aprilia, E. D. (2024). Workplace spirituality to reduce burnout in members of the Regional Police Mobile Brigade. *Seurune: Jurnal Psikologi Unsyiah, 7*(1), 74–91.
 - DOI: 10.24815/s-jpu.v7i1.37178
 - Sample: 258 Brimob members selected using cluster random sampling
-- Retrieval: Elicit metadata/abstract and open full-text URL, 2026-10-11
-- Access: FULL_TEXT AVAILABLE
+- Retrieval: Elicit metadata/abstract and publisher full text, 2026-10-11
+- Access: FULL_TEXT
 
 ## Extraction
 The study used a correlational design and the Maslach Burnout Inventory with 258 Brimob members. It reports a negative relationship between workplace spirituality and burnout.
