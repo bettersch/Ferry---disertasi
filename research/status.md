@@ -16,7 +16,7 @@ Workspace mode: RESEARCH.
 - #11 — outcome label/level and cross-level mechanism: COMPLETED and merged
 - #12 — integrative construct scope lock: COMPLETED and merged
 - #26 — deepen/rewrite `1.1 Latar Belakang`: COMPLETED and merged via PR #27
-- #29 — Stage 3 focused empirical reconstruction: WORKING BRANCH COMPLETE / awaiting PR validation and merge
+- #29 — Stage 3 focused empirical reconstruction: COMPLETED and merged via PR #30
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - Manuscript language: Indonesian (`DEC-017`)
 - GRO-03: **REVISE — NOT VERIFIED**
