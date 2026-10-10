@@ -1,8 +1,8 @@
 # Brain — Coherence Anchor
 
-Project: NOT YET FILLED.
-Builder version: 0.3.0. Mode: TEMPLATE.
-Last synced commit: NOT YET FILLED. Synced by: NOT YET FILLED.
+Project: Ferry doctoral dissertation — Korbrimob Polri.
+Builder version: 0.3.0. Mode: RESEARCH.
+Last synced commit: 8c96ae8364aedb799f1f18e79cf1822936b6d694 (Issue #1 branch checkpoint before this brain sync). Synced by: ChatGPT research agent, 2026-10-11.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
@@ -34,8 +34,11 @@ Mandate, constraints, resources, access to the locus, and the paradigm with its 
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
+| CTX-001 | The dissertation research locus is Korbrimob Polri, with personnel as the candidate study population while the final unit of analysis remains undecided. | KNOWN | DEC-006; DEC-007 |  | PHN-001; PHN-002 | Introduction | FG0 |  |
+| CTX-002 | This copied workspace is governed in RESEARCH mode and substantive changes must follow the Issue → branch → PR workflow. | KNOWN | DEC-006 |  |  | Project governance | FG0 |  |
+| CTX-003 | The current institutional strategic context is the Korbrimob Polri 2025–2029 strategic plan established by KEP/299/V/2025 dated 23 May 2025. | SUPPORTED | SRC-001 |  | PHN-001; PHN-002 | Introduction/context | FG0 |  |
 
-Paradigm: NOT YET DECIDED. Reason: NOT YET FILLED.
+Paradigm: NOT YET DECIDED. Reason: the research problem and final research questions have not yet been established.
 
 ## Stage 1 — Phenomenon (`PHN`)
 
@@ -43,8 +46,10 @@ What is happening, where (locus), since when, and to whom. Evidence comes from t
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
+| PHN-001 | Korbrimob's 2025–2029 strategic plan documents a need to adapt to rapidly developing, increasingly complex information technology and directs capability development for technology- and data-analytics-based operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 |  | Introduction | FG0 |  |
+| PHN-002 | The same strategic plan identifies limited modernization of personnel capability in mastery of communication technology for high-intensity public-safety operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 |  | Introduction | FG0 |  |
 
-Locus: NOT YET FILLED.
+Locus: Korbrimob Polri. The Stage 1 phenomenon is institutional digital modernization/adaptation under high-intensity operational conditions; employee-level demands, resources, health outcomes, and organizational-capability outcomes remain to be established rather than assumed.
 
 ## Stage 2 — Theory (`THR`) and theory gaps (`GAP`)
 
@@ -101,7 +106,7 @@ Implications promised — theoretical (to Stage 2) and practical (to the locus),
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
 
-Urgency — why now: NOT YET FILLED.
+Urgency — why now: the current strategic period explicitly includes technology adaptation and technology/data-analytics-based operational development (`SRC-001`), but scholarly urgency and contribution remain unestablished.
 
 FG1 check — the chain Phenomenon → Theory → Gap → Novelty → RQ is connected without a jump and relevant: NOT ASSESSED.
 
@@ -177,7 +182,7 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 
 | Check | Rule | Status | IDs affected |
 |---|---|---|---|
-| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | NOT ASSESSED | |
+| Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | NOT ASSESSED | PHN-001; PHN-002 |
 | Theory does work | every `THR` is used by a `DIS` in Stage 7 or explicitly found not relevant | NOT ASSESSED | |
 | Gaps are motivated | every `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ` | NOT ASSESSED | |
 | Questions are grounded | every `RQ` has upstream `GAP` and `NOV` | NOT ASSESSED | |
