@@ -8,38 +8,34 @@ The only part of this file that is overwritten. Sections below keep their histor
 
 | | |
 |---|---|
-| Project | NOT YET FILLED |
-| Builder version / mode | 0.3.0 · TEMPLATE |
-| Current stage | Stage 0 — Context |
+| Project | Ferry — Doctoral Dissertation on Korbrimob Polri |
+| Builder version / mode | 0.3.0 · RESEARCH |
+| Current stage | Stage 0–1 — Context and phenomenon framing |
 | Current flow gate | FG0 · NOT ASSESSED |
-| **Destination** | NOT YET DECIDED — the contribution this study is aiming at, in plain words |
-| Awaiting your verification | NONE |
+| **Destination** | NOT YET DECIDED — current direction is to establish a defensible research problem around Korbrimob's digital modernization and its human/organizational implications before selecting theory or method |
+| Awaiting your verification | GRO-01 |
 | Sections verified | 0 of 11 |
-| `brain.md` commit | NOT YET FILLED |
-| Last updated / by | NOT YET FILLED |
+| `brain.md` commit | Issue #1 branch checkpoint; final merge commit not yet available |
+| Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
 
 Read it top to bottom and you have the whole study: what it is about, which theory, which gap, which questions, which method, what was found, and what it means — each with its reasoning. To check only what needs you, read the sections marked `REPORTED` above.
 
-Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, awaiting you) → `VERIFIED` (you agreed, with your name and the date) or `REVISED` (you asked for a different direction, or new evidence changed it — the section is rewritten and re-reported). **The AI never marks a section `VERIFIED`.**
-
-Nothing has been reached yet. The eleven sections below are the shape of the study; each is filled as the research reaches it.
+Status of a section: `NOT YET REACHED` → `REPORTED` (the AI has written it, awaiting you) → `VERIFIED` (you agreed, with a name and a date) or `REVISED` (you asked for a different direction, or new evidence changed it — the section is rewritten and re-reported). **The AI never marks a section `VERIFIED`.**
 
 ## GRO-01 · Introduction
 
-- Status: NOT YET REACHED
+- Status: REPORTED
 - Flow stage / gate: Stage 0–1 · FG0
-- Version: — · not yet written
-- Basis: —
+- Version: 1.0 · 2026-10-11 · PR #2
+- Basis: CTX-001; CTX-003; PHN-001; PHN-002; SRC-001; DEC-007; DEC-008
 - Verified by / date: —
 
-Reports the phenomenon, the locus, the paradigm, and why this study is being done. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Korbrimob Polri is the locus of this dissertation. Its 2025–2029 strategic plan documents continued high-intensity operational responsibilities alongside technology-based operations, data analytics, and a need to adapt personnel capabilities to increasingly complex information technology. These facts establish a modernization phenomenon, not a causal effect or scientific gap. The study will therefore determine which personnel-level and organizational conditions are actually implicated by that modernization and which remain unexplained after theory and empirical evidence are reviewed. The current working title and construct set are retained only as candidates. Paradigm, theory, research questions, method, novelty, and contribution remain undecided. The immediate goal is a defensible problem framing grounded in verified institutional and scholarly evidence.
 
-- What this forecloses: —
-- Not yet settled: —
+- What this forecloses: treating digitalization as proof of high Digital Job Demands, burnout, low resilience, causality, or novelty before the relevant evidence is established.
+- Not yet settled: institutional requirements; output language; unit/level of analysis; final phenomenon boundary; theory; constructs; RQs; method; measurement; access/ethics; novelty; contribution.
 
 ## GRO-02 · Grand theory
 

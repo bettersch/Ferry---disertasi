@@ -5,6 +5,7 @@ Record substantive AI use without including sensitive data. This log helps resea
 | Date | Tool/model | Task | Safe inputs | Outputs | Actual verification | Human responsible |
 |---|---|---|---|---|---|---|
 | 2026-09-07 | Codex; exact model identity not recorded | Prepared the initial builder and skills | User instructions, prior template structure, public standards sources | Project rules, skills, and working templates | Agent checked structure/links/frontmatter before commit; no human academic review was performed | NOT YET DESIGNATED |
+| 2026-10-11 | ChatGPT (GPT-5.6 Sol) with GitHub connector | Initialized Ferry research workspace and Stage 0–1 framing | User-provided Ferry project context; repository rules; user-supplied Renstra Korbrimob 2025–2029; availability of prior literature matrices | Issue #1; RESEARCH-mode project brief; `SRC-001`; framing memo; initial `brain.md` context/phenomenon statements; research status; GRO-01 in PR #2 | Agent checked source claims against inspected Renstra passages and kept theory/method/novelty undecided; repository mechanical validation not yet run in this session; researcher verification of GRO-01 pending | Researcher NOT YET RECORDED |
 
 For later entries, add corrections, limits of use, and the location of human verification when it actually occurs. Do not claim that AI use has institutional approval until the applicable policy has been verified.
 
@@ -39,3 +40,7 @@ Claude Opus 5 (Claude Code) added Stage 9 and the gate FG5 for revision: a verba
 ## Entry-document consistency pass — 17 September 2026
 
 Claude Opus 5 (Claude Code) reconciled the entry documents with the final 0.3.0 state: corrected stale stage counts and flow-gate ranges across `AGENTS.md`, `README.md`, and the docs; removed a duplicate stage table from `README.md`; replaced leftover vocabulary from a superseded GRO model; and added an explicit description of the mechanism — what triggers what, what each gate blocks, and where the researcher's judgment enters — so that a human reader and an agent can follow the same account. The changelog entry for 0.3.0 was rewritten to match the shipped state and now records the known limits. Repository integrity checks passed. Documentation only; no research artifact was changed.
+
+## Ferry research initialization — 11 October 2026
+
+ChatGPT initialized the copied Ferry repository as a RESEARCH workspace under Issue #1 and draft PR #2. It used only project information already supplied by the researcher and inspected Stage 1 institutional evidence from the user-supplied Renstra. The current working title and prior four-construct model were preserved as candidates rather than treated as approved scientific decisions. No theory, research question, method, measurement instrument, causal effect, novelty, ethics approval, or participant access was established. GRO-01 was reported for researcher verification and must not be treated as verified until the researcher records that decision.
