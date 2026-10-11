@@ -16,7 +16,7 @@ Workspace mode: RESEARCH.
 - #32 — GAP-004 Burnout↔POR directionality audit: COMPLETED and merged via PR #33; `RESOLVED-REVISE-MODEL`
 - #35 — coherence synchronization after GAP-004: COMPLETED and merged via PR #36
 - #37 — GAP-005 downstream outcome audit: COMPLETED and merged via PR #40; `RESOLVED-REPLACE-Y`
-- #41 — GAP-006 relation architecture audit: ACTIVE until PR merge; `RESOLVED-PARALLEL-ASYMMETRIC` recorded as `DEC-020`
+- #41 — GAP-006 relation architecture audit: COMPLETED and merged via PR #42; `RESOLVED-PARALLEL-ASYMMETRIC` recorded as `DEC-020`
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - Manuscript language: Indonesian (`DEC-017`)
 - GRO-03: **REPORTED — awaiting researcher verification**
