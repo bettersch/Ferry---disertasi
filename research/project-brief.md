@@ -13,11 +13,11 @@ This is an actual research workspace. Substantive work follows the Issue → bra
 | Degree/program and institution | Doctoral Management program; institution NOT YET VERIFIED | User-provided context |
 | Institutional dissertation guidelines | NOT YET VERIFIED | Researcher/institution required |
 | Supervisor/advisor and review mechanism | NOT YET VERIFIED | Researcher/institution required |
-| Initial topic/problem | Candidate problem: human and organizational implications of Korbrimob digital modernization while maintaining high-intensity operational responsibilities. Current working title: **“Hubungan Tuntutan Kerja Digital dan Dukungan Organisasi yang Dirasakan dengan Ketahanan Organisasi: Peran Mediasi Burnout pada Personel Korps Brimob Polri.”** The title remains under review; the pre-Stage-3 scope narrows the person-level outcome to Perceived Organizational Resilience. | User context; `SRC-001`; `DEC-007`; `DEC-008`; `DEC-016` |
-| Research questions and objectives | NOT YET DECIDED. Prior working questions must be re-derived after empirical literature reconstruction. | Research-framing rule; `DEC-016` |
-| Unit of analysis/corpus/population | Candidate locus/population: Korbrimob Polri personnel. Current pre-Stage-3 architecture is person-level for DJD, POS, Burnout, and Perceived Organizational Resilience; true organization-level resilience requires a different data structure. | `DEC-016`; outcome-level resolution |
+| Initial topic/problem | Candidate problem: human and organizational implications of Korbrimob digital modernization while maintaining high-intensity operational responsibilities. The prior working title — **“Hubungan Tuntutan Kerja Digital dan Dukungan Organisasi yang Dirasakan dengan Ketahanan Organisasi: Peran Mediasi Burnout pada Personel Korps Brimob Polri.”** — is retained only as a historical working title. After the Stage 3 directionality audit, **“Peran Mediasi Burnout” is not a current model claim** and no replacement title is approved until the downstream outcome architecture is resolved. | User context; `SRC-001`; `DEC-007`; `DEC-008`; `DEC-016`; `DEC-018` |
+| Research questions and objectives | NOT YET DECIDED. Prior working questions must be re-derived after `GAP-005` and the downstream outcome architecture are resolved. | Research-framing rule; `DEC-018` |
+| Unit of analysis/corpus/population | Candidate locus/population: Korbrimob Polri personnel. The currently retained upstream architecture is person-level for DJD, POS, and Burnout. Perceived Organizational Resilience (POR) remains only a separate candidate person-level outcome domain pending `GAP-005`; true organization-level resilience requires a different data structure. | `DEC-016`; `DEC-018`; outcome-level resolution |
 | Study context and time boundary | Korbrimob Polri, Indonesia; strategic context Renstra 2025–2029; empirical study period NOT YET DECIDED | `SRC-001` |
-| Literature and data access | Renstra and four variable-focused literature matrices are available. They remain working evidence maps; Stage 3 empirical reconstruction is still required. Participant and internal-data access NOT YET VERIFIED. | Issues #5, #8–#12 |
+| Literature and data access | Renstra and four variable-focused literature matrices are available. Focused Stage 3 empirical reconstruction and the `GAP-004` directionality audit are complete; authenticated Scopus/Web of Science parity and broader citation chasing remain outstanding. Participant and internal-data access NOT YET VERIFIED. | Issues #29 and #32; `RUN-006`–`RUN-017`; `DEC-018` |
 | Time, budget, and capacity | NOT YET VERIFIED | Researcher input required |
 | Paradigm and rationale | NOT YET DECIDED | Must follow the research problem and questions |
 | Methodological decision framework | Creswell & Creswell (2023), 6th ed. | Better Research default |
@@ -46,9 +46,13 @@ Repository documentation remains in English. **The dissertation manuscript is wr
 
 It does **not** establish that Digital Job Demands or burnout are high, that POS is low, that digitalization causes burnout, or that actual Organizational Resilience is low.
 
-## Current pre-Stage-3 scope
+## Current Stage 3 architecture
 
-The bounded literature-audit domains are: narrowed Digital Job Demands, Perceived Organizational Support, Burnout, and Perceived Organizational Resilience. The ordering `DJD/POS → Burnout → POR` is a Stage 3 evidence-search architecture rather than an approved causal model. Rival explanations and reverse directions remain mandatory.
+The currently retained person-level upstream domains are **bounded Digital Job Demands**, **Perceived Organizational Support**, and **Burnout**. The evidence audit supports continued examination of DJD/POS in relation to Burnout, with POS→Burnout currently the strongest police-specific relation and DJD→Burnout retained with construct-boundary caution.
+
+Under `DEC-018`, **`Burnout → POR` and `DJD/POS → Burnout → POR` are removed from the locked working architecture**. This is not a claim that burnout is irrelevant to adaptation; it is a decision that the proposed mediation/direction is not sufficiently supported for model lock. **POR remains only a separate candidate outcome domain pending `GAP-005`**, which must test its distinctness from readiness, agility, adaptive capability, perceived organizational effectiveness, and POS.
+
+Rival and common-cause explanations remain mandatory, including general operational workload, digital capability mismatch, leadership, staffing, objective resources, trust/safety climate, readiness/agility, and organizational digital capability.
 
 ## Uncertainties that determine later stages
 
@@ -57,10 +61,11 @@ Still required:
 1. institutional dissertation guidelines/version;
 2. formal supervisory/review mechanism;
 3. access and permission status for the intended locus/data;
-4. Stage 3 empirical reconstruction, including rival/counterevidence searches;
-5. final research questions and hypotheses;
-6. measurement, design, sampling, identification, analysis, novelty, and contribution.
+4. resolution of `GAP-005` and the downstream outcome architecture;
+5. remaining Stage 3 parity/citation-chasing checks before any final literature-absence/gap claim;
+6. final research questions and hypotheses;
+7. measurement, design, sampling, identification, analysis, novelty, and contribution.
 
 ## Scope boundary
 
-The current construct scope does **not** approve mediation, mixed methods, PLS-SEM, any instrument, causal direction, novelty, or contribution. The working Background may synthesize verified context, theory, and targeted empirical evidence, but final empirical-gap claims must wait for Stage 3/GRO-03.
+The current construct scope does **not** approve a downstream POR path, mediation, a replacement outcome, mixed methods, PLS-SEM, any instrument, causal direction, novelty, or contribution. The working Background may synthesize verified context, theory, and targeted empirical evidence, but final empirical-gap claims and the final title must wait for resolution of `GAP-005` and GRO-03.
