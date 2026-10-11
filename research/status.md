@@ -18,7 +18,7 @@ Workspace mode: RESEARCH.
 - #35 — coherence synchronization after GAP-004: COMPLETED and merged via PR #36
 - #37 — GAP-005 downstream outcome audit: COMPLETED and merged via PR #40; `RESOLVED-REPLACE-Y`
 - #41 — GAP-006 relation architecture audit: COMPLETED and merged via PR #42; `RESOLVED-PARALLEL-ASYMMETRIC`
-- #44 — GRO-03 verification + Stage 4 novelty audit: ACTIVE until PR merge; `DEC-021` recorded
+- #44 — GRO-03 verification + Stage 4 novelty audit: COMPLETED and merged via PR #45; `DEC-021` recorded
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - Manuscript language: Indonesian (`DEC-017`)
 - GRO-04: **REPORTED — awaiting researcher verification**
