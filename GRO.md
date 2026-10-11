@@ -10,12 +10,12 @@ The only part of this file that is overwritten. Sections below keep their histor
 |---|---|
 | Project | Ferry — Doctoral Dissertation on Korbrimob Polri |
 | Builder version / mode | 0.3.0 · RESEARCH |
-| Current stage | Pre-Stage-3 — Construct–field–problem lock |
+| Current stage | Stage 3 — Empirical literature reconstruction and downstream outcome architecture |
 | Current flow gate | FG1 · NOT ASSESSED |
-| **Destination** | Lock only those constructs that coherently fit the documented Korbrimob field problem, verified theory, and defensible level of analysis before empirical gap synthesis |
+| **Destination** | Resolve `GAP-005` and the downstream outcome architecture, then complete remaining Stage 3 parity/citation-chasing checks before reporting GRO-03 |
 | Awaiting your verification | — |
 | Sections verified | 2 of 11 |
-| `brain.md` commit | 7628451530382543f7ad03eb7ee0825cc56aafbd (Stage 2 theory checkpoint) |
+| `brain.md` commit | 0ce6ba4e4b32ee8558589571251ff0e8439f9c22 (Issue #32 merged via PR #33; GAP-004 resolved by model revision) |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this

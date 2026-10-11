@@ -17,7 +17,7 @@ Workspace mode: RESEARCH.
 - #12 — integrative construct scope lock: COMPLETED and merged
 - #26 — deepen/rewrite `1.1 Latar Belakang`: COMPLETED and merged via PR #27
 - #29 — Stage 3 focused empirical reconstruction: COMPLETED and merged via PR #30
-- #32 — GAP-004 Burnout↔POR directionality audit: EVIDENCE SYNTHESIS COMPLETE; decision `RESOLVED-REVISE-MODEL`; branch/PR validation in progress
+- #32 — GAP-004 Burnout↔POR directionality audit: COMPLETED and merged via PR #33; decision `RESOLVED-REVISE-MODEL`
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - Manuscript language: Indonesian (`DEC-017`)
 - GRO-03: **REVISE — NOT VERIFIED**
