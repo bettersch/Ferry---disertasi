@@ -10,23 +10,23 @@ This is an actual research workspace. Substantive work follows the Issue → bra
 | Aspect | Current value | Source/decision |
 |---|---|---|
 | Researcher academic context | Doctoral-level dissertation research in management | User-provided Ferry project context; Issue #1 |
-| Degree/program and institution | Doctoral Management program; institution NOT YET VERIFIED | User-provided context |
-| Institutional dissertation guidelines | NOT YET VERIFIED | Researcher/institution required |
-| Supervisor/advisor and review mechanism | NOT YET VERIFIED | Researcher/institution required |
+| Degree/program and institution | Doctoral Management program; exact institution NOT YET VERIFIED | User-provided context; G0 review |
+| Institutional dissertation guidelines | NOT YET VERIFIED; method-relevant requirements are a G0 closure item | `reviews/2026-10-11-fg0-context.md` |
+| Supervisor/advisor and review mechanism | Formal institutional mechanism NOT YET VERIFIED. `DAT-001` documents only an internal workflow of review with Pak Adriza followed by client discussion; this is not treated as formal university supervision. | `DAT-001`; G0 review |
 | Initial topic/problem | Candidate problem: human health and adaptive-performance implications of Korbrimob digital modernization while maintaining high-intensity operational responsibilities. The prior title — **“Hubungan Tuntutan Kerja Digital dan Dukungan Organisasi yang Dirasakan dengan Ketahanan Organisasi: Peran Mediasi Burnout pada Personel Korps Brimob Polri.”** — is historical only. Neither “Ketahanan Organisasi” nor “Peran Mediasi Burnout” is a current locked title/model claim. | `SRC-001`; `DEC-007`; `DEC-018`; `DEC-019`; `DEC-020` |
 | Research questions and objectives | **VERIFIED at GRO-05:** `RQ-001` construct boundary; `RQ-002` bounded DJD/POS with Burnout; `RQ-003` bounded DJD/POS/Burnout with Adaptive Performance. Directional expectations are associative only; DJD→Adaptive Performance remains exploratory. | `DEC-022`; GRO-05; Issue #50 |
 | Unit of analysis/corpus/population | **LOCKED for current framing:** individual Korbrimob personnel. Bounded DJD, POS, Burnout and Adaptive Performance are treated at the person level; no organizational-level effect may be inferred from person-level data. True Organizational Resilience remains organization-level; POR/readiness/agility remain contextual/rival domains. | `DEC-023`; `DEC-019`; `DEC-022` |
 | Study context and time boundary | Korbrimob Polri, Indonesia; strategic context Renstra 2025–2029; empirical study period NOT YET DECIDED | `SRC-001` |
-| Literature and data access | Renstra and four prior variable matrices are available. Focused Stage 3 reconstruction, directionality/outcome/relation audits and Stage 4 novelty audit are complete. The literature basis is explicitly a **bounded focused evidence reconstruction**, not a systematic/comprehensive review. Authenticated Scopus/Web of Science parity/citation chasing remains unavailable and is a limitation/reopen trigger for stronger coverage claims. Participant/internal-data access NOT YET VERIFIED. | `RUN-006`–`RUN-040`; `DEC-021`; `DEC-024`; formal FG1 review |
-| Time, budget, and capacity | NOT YET VERIFIED | Researcher input required |
-| Paradigm and rationale | NOT YET DECIDED | Must follow the verified RQ set and be selected in Stage 5 after upstream context-gate requirements are resolved |
+| Literature and data access | Renstra and four prior variable matrices are available. Focused Stage 3 reconstruction, directionality/outcome/relation audits and Stage 4 novelty audit are complete. The literature basis is explicitly a **bounded focused evidence reconstruction**, not a systematic/comprehensive review. Authenticated Scopus/Web of Science parity/citation chasing remains unavailable and is a limitation/reopen trigger for stronger coverage claims. **Current participant/internal-data access is NOT YET VERIFIED and is a critical G0 closure item before method selection.** | `RUN-006`–`RUN-040`; `DEC-021`; `DEC-024`; formal FG1 review; `DAT-001`; G0 review |
+| Time, budget, and capacity | `DAT-001` supports an internal working roadmap from August 2026 to June 2027, but whether that roadmap remains current and any hard budget/software/travel/personnel constraints are NOT YET VERIFIED. | `DAT-001`; G0 review |
+| Paradigm and rationale | NOT YET DECIDED | Must follow the verified RQ set and be selected in Stage 5 only after FG0 closure |
 | Methodological decision framework | Creswell & Creswell (2023), 6th ed. | Better Research default |
-| Design/method and rationale | NOT YET DECIDED. Prior proposals such as mixed methods and PLS-SEM are not approved. | `DEC-007` |
+| Design/method and rationale | NOT YET DECIDED. Historical planning entries for mixed methods, PLS-SEM/SEM-PLS, NVivo, surveys and interviews are not approved methodology. | `DEC-007`; `DAT-001` |
 | Citation style | APA 7th author–date is the current working instruction; institutional requirement NOT YET VERIFIED | User-provided project instruction |
 | Primary research-output language | **Indonesian for the dissertation manuscript and current Background draft.** Repository documentation remains English. | `DEC-017` |
 | Manuscript/output format | Dissertation/proposal expected; institutional template NOT YET VERIFIED | Institutional guideline required |
 | AI and authorship policy | NOT YET VERIFIED | Institution/publisher policy required; actual AI use is logged |
-| Ethics and data requirements | NOT YET VERIFIED. No approval, permission, or access is assumed. | Academic-integrity rule |
+| Ethics and data requirements | Formal approval/permission pathway NOT YET VERIFIED. No approval, permission, participant access, or ethics clearance is assumed. | Academic-integrity rule; G0 review |
 | Intended form of contribution | **VERIFIED direction, still empirically provisional:** theory-boundary + construct-clarification + empirical-pattern contribution within digital JD-R, with contextual extension secondary. `CTB-001` remains conditional on later measurement/design preserving the construct boundary and on the eventual findings. | `DEC-021`; `NOV-001`; `DEC-022`; `CTB-001`; GRO-05 |
 
 ## Language policy
@@ -40,11 +40,13 @@ Repository documentation remains in English. **The dissertation manuscript is wr
 | APA 7th edition | Official source NOT YET REGISTERED | Working citation style | User instruction; institutional requirement still to verify | 2026-10-11 |
 | Creswell & Creswell (2023), 6th ed. | Better Research method layer | Later design-selection framework | Does not predetermine a method | Builder default |
 
-## Available institutional evidence
+## Available institutional and project evidence
 
 `SRC-001` registers the user-supplied **Rencana Strategis Korps Brimob Polri Tahun 2025–2029 (KEP/299/V/2025, 23 May 2025)** as mandatory locus/problem guidance. It supports documented high-intensity operational responsibilities, digital/technology adaptation, personnel capability development, resource/welfare constraints, leadership/governance issues, organizational-adaptation priorities, adaptive/competent personnel targets, and performance/capability indicators.
 
-It does **not** establish DJD or burnout levels, POS levels, Adaptive Performance levels, actual Organizational Resilience, or any causal relation.
+It does **not** establish DJD or burnout levels, POS levels, Adaptive Performance levels, actual Organizational Resilience, research permission, participant access, or any causal relation.
+
+`DAT-001` registers the researcher-uploaded internal dissertation progress roadmap. It supports only a working August 2026–June 2027 schedule, an internal-review/client-discussion workflow, and the fact that respondent/informant access was still treated as a future dependency in that roadmap. It is **not** an institutional dissertation regulation, formal supervisor appointment, ethics approval, access authorization, or current method approval.
 
 ## Current architecture
 
@@ -74,16 +76,18 @@ Directional expectations are limited to DJD–Burnout (+), POS–Burnout (−), 
 
 The formal Issue #50 review assesses **G1 = READY, G2 = READY, G3 = READY, therefore FG1 = READY** within the bounded framing. `DEC-024` records why unavailable authenticated Scopus/Web of Science parity is a limitation/reopen trigger rather than a critical G2 failure for the explicitly focused review type.
 
-However, **FG0 Context remains NOT ASSESSED**. The project still lacks verified institutional dissertation guidelines, supervisor/review mechanism, participant/internal-data access status, and time/budget/capacity information. In the sequential workflow this upstream gate must be assessed before Stage 5 method selection is treated as authorized.
+Issue #52 then assessed the upstream context gate. **G0 = REVISION REQUIRED and FG0 = REVISION REQUIRED.** The critical gaps are narrower than the scientific framing but method-relevant: the exact institution/program guidance is not verified, and realistic current access to the intended person-level Korbrimob population is not established. Formal review/ethics constraints and current hard feasibility constraints also require confirmation.
+
+Therefore Stage 5 method selection remains blocked until the G0 closure conditions in `reviews/2026-10-11-fg0-context.md` are resolved.
 
 ## Uncertainties that determine later stages
 
 Still required:
 
-1. institutional dissertation guidelines/version and any method-relevant requirements;
-2. formal supervisory/review mechanism;
-3. access and permission status for the intended locus/data;
-4. time, budget and practical capacity constraints relevant to feasibility;
+1. exact institution/program and current dissertation/proposal guideline or explicit confirmation that no method-relevant guideline is currently available;
+2. current in-principle access route to individual Korbrimob personnel and material restrictions on survey/interview contact;
+3. formal supervisory/proposal/ethics/organizational approval route and any known constraints;
+4. confirmation whether the August 2026–June 2027 internal roadmap remains operative and any hard deadline/budget/software/travel/personnel/data-security constraints;
 5. exact DJD dimensions and measurement/discriminant validity;
 6. boundary-comparator operationalization for workload and digital-skill mismatch;
 7. paradigm, design, sampling, identification, analysis and final contribution wording;
@@ -91,4 +95,4 @@ Still required:
 
 ## Scope boundary
 
-The current scope does **not** approve Burnout mediation, a signed DJD→Adaptive Performance hypothesis, a final DJD or Adaptive Performance instrument, mixed methods, PLS-SEM, any causal direction, a “first/only study” claim, or a final empirical contribution statement. GRO-03, GRO-04 and GRO-05 are verified; FG1 is READY within its scope; upstream FG0 remains NOT ASSESSED. The final title remains open.
+The current scope does **not** approve Burnout mediation, a signed DJD→Adaptive Performance hypothesis, a final DJD or Adaptive Performance instrument, mixed methods, PLS-SEM, any causal direction, a “first/only study” claim, or a final empirical contribution statement. GRO-03, GRO-04 and GRO-05 are verified; FG1 is READY within its scope; FG0 is REVISION REQUIRED pending context closure. The final title remains open.
