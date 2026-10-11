@@ -10,9 +10,9 @@ The only part of this file that is overwritten. Sections below keep their histor
 |---|---|
 | Project | Ferry — Doctoral Dissertation on Korbrimob Polri |
 | Builder version / mode | 0.3.0 · RESEARCH |
-| Current stage | Stage 4 framing complete · Stage 5 method framing authorized |
-| Current flow gate | FG1 · READY |
-| **Destination** | Stage 5 method framing from the verified RQs; next researcher checkpoint is GRO-06 · Method |
+| Current stage | Stage 4 framing complete · formal FG1 READY |
+| Current flow gate | FG1 · READY; upstream FG0 · NOT ASSESSED |
+| **Destination** | Assess and close FG0 Context before Stage 5 method selection; GRO-06 remains the next research-direction checkpoint after that upstream gate is READY |
 | Awaiting your verification | NONE |
 | Sections verified | 5 of 11 |
 | `brain.md` commit | `a410a530218e67b0766706af6710b3ff70113cb9` (Issue #50 working branch; GRO-05 verified, individual unit locked, formal FG1 review recorded) |
