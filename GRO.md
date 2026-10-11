@@ -10,12 +10,12 @@ The only part of this file that is overwritten. Sections below keep their histor
 |---|---|
 | Project | Ferry — Doctoral Dissertation on Korbrimob Polri |
 | Builder version / mode | 0.3.0 · RESEARCH |
-| Current stage | Stage 3 — Literature/gap direction reported |
+| Current stage | Stage 4 — Novelty direction reported |
 | Current flow gate | FG1 · NOT ASSESSED |
-| **Destination** | Researcher verification of GRO-03; only after verification may Stage 4 novelty/RQ framing proceed |
-| Awaiting your verification | **GRO-03 · Literature and gap** |
-| Sections verified | 2 of 11 |
-| `brain.md` commit | `4a8b05b5677644ef3f727cce520e191a834dbce6` (Issue #41 merged via PR #42; GAP-006 resolved under `DEC-020`) |
+| **Destination** | Researcher verification of GRO-04; only after verification may Stage 4 research-question framing proceed |
+| Awaiting your verification | **GRO-04 · Novelty** |
+| Sections verified | 3 of 11 |
+| `brain.md` commit | Issue #44 working-branch novelty audit; GRO-03 verified and `DEC-021` recorded; final merge commit pending |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
@@ -52,11 +52,11 @@ Job Demands–Resources Theory is proposed as Ferry’s primary grand theory bec
 
 ## GRO-03 · Literature and gap
 
-- Status: REPORTED
+- Status: VERIFIED
 - Flow stage / gate: Stage 3 · FG1
 - Version: 1.0 · 2026-10-11 · Issue #41 / PR #42
 - Basis: LIT-001; LIT-002; LIT-010–LIT-013; GAP-003; GAP-006; SRC-048–SRC-056; DEC-019; DEC-020
-- Verified by / date: —
+- Verified by / date: Researcher (explicit continuation approval after verification request) / 11 October 2026
 
 Empirical literature supports a demand–resource architecture rather than a burnout-mediation chain. Specific digital demands are repeatedly linked to strain/burnout, but policing evidence does not yet cleanly isolate bounded DJD from operational workload or digital-skill mismatch. POS is comparatively well supported as a lower-burnout resource and has broader evidence linking it to Adaptive Performance. Burnout shows a modest adverse performance association, but evidence is insufficient to lock it as mediator of Adaptive Performance. Digital demands may operate as challenge or hindrance demands, so their performance direction remains open. The defensible unresolved problem is how bounded DJD and POS relate to personnel health and Adaptive Performance under high-intensity policing modernization, not whether one exact four-variable model is absent.
 
@@ -65,18 +65,16 @@ Empirical literature supports a demand–resource architecture rather than a bur
 
 ## GRO-04 · Novelty
 
-- Status: NOT YET REACHED
+- Status: REPORTED
 - Flow stage / gate: Stage 4 · FG1
-- Version: — · not yet written
-- Basis: —
+- Version: 1.0 · 2026-10-11 · Issue #44
+- Basis: GAP-002; GAP-003; GAP-007; LIT-014; LIT-015; NOV-001; SRC-057–SRC-063; DEC-021
 - Verified by / date: —
 
-Reports where this study stands against the state of the art. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Ferry's defensible novelty is not a new grand theory, the Korbrimob setting, or an exact four-variable combination. Existing policing research already links technology difficulty/support to stress and resources to adaptivity, while broader digital-work studies show digital demands can operate as challenge or hindrance demands. The unresolved contribution is to test, in high-intensity policing, a clearly bounded digital job-demand domain—separated from operational workload and digital-skill mismatch—against two theoretically different outcomes: Burnout and Adaptive Performance, with POS as a focal resource. This positions the study as a theory-boundary/construct-clarification and empirical-pattern test of digital JD-R, not a claim that all digital demands are harmful.
 
-- What this forecloses: —
-- Not yet settled: —
+- What this forecloses: "first/only study" language; novelty from Indonesia/Korbrimob alone; novelty from merely combining four variables; universal negative DJD→Adaptive Performance; Burnout mediation as the defining contribution; claiming a new grand theory.
+- Not yet settled: final RQs/hypotheses; exact DJD dimensions and measurement; challenge/hindrance operationalization; controls/rival mechanisms; design/identification; final contribution wording; authenticated Scopus/WoS parity.
 
 ## GRO-05 · Research questions
 
@@ -86,9 +84,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports the questions, and why they are phrased and bounded this way. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports the questions, and why they are phrased and bounded this way. One paragraph, at most ~120 words, stating the direction this part takes and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -101,9 +97,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports the approach and design, and why they fit the questions and the paradigm. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports the approach and design, and why they fit the questions and the paradigm. One paragraph, at most ~120 words, stating the direction this part takes and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -116,9 +110,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports where the data comes from, how it is cleaned and analyzed, and why. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports where the data comes from, how it is cleaned and analyzed, and why. One paragraph, at most ~120 words, stating the direction this part takes and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -131,9 +123,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports what the data shows and how it answers each research question. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports what the data shows and how it answers each research question. One paragraph, at most ~120 words, stating the direction this part takes and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -146,9 +136,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports what the findings mean against the theory and the literature. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports what the findings mean against the theory and the literature. One paragraph, at most ~120 words, stating the direction this part takes and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -161,9 +149,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports the answers to the questions, the limits, and what follows from them. One paragraph, at most ~120 words, stating the direction this part takes and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
@@ -176,9 +162,7 @@ repository.
 - Basis: —
 - Verified by / date: —
 
-Reports how the argument is arranged and why. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Reports how the argument is arranged and why. One paragraph, at most ~120 words, stating the direction this part takes and the reasoning behind it, written for someone who has not read the repository.
 
 - What this forecloses: —
 - Not yet settled: —
