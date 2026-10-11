@@ -15,7 +15,7 @@ The only part of this file that is overwritten. Sections below keep their histor
 | **Destination** | Researcher verification of GRO-03; only after verification may Stage 4 novelty/RQ framing proceed |
 | Awaiting your verification | **GRO-03 · Literature and gap** |
 | Sections verified | 2 of 11 |
-| `brain.md` commit | Issue #41 working-branch sync; `GAP-006` resolved under `DEC-020`; final merge commit pending |
+| `brain.md` commit | `4a8b05b5677644ef3f727cce520e191a834dbce6` (Issue #41 merged via PR #42; GAP-006 resolved under `DEC-020`) |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
@@ -54,7 +54,7 @@ Job Demands–Resources Theory is proposed as Ferry’s primary grand theory bec
 
 - Status: REPORTED
 - Flow stage / gate: Stage 3 · FG1
-- Version: 1.0 · 2026-10-11 · Issue #41
+- Version: 1.0 · 2026-10-11 · Issue #41 / PR #42
 - Basis: LIT-001; LIT-002; LIT-010–LIT-013; GAP-003; GAP-006; SRC-048–SRC-056; DEC-019; DEC-020
 - Verified by / date: —
 
