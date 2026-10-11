@@ -10,12 +10,12 @@ The only part of this file that is overwritten. Sections below keep their histor
 |---|---|
 | Project | Ferry — Doctoral Dissertation on Korbrimob Polri |
 | Builder version / mode | 0.3.0 · RESEARCH |
-| Current stage | Stage 3 — Empirical literature reconstruction; Adaptive Performance relation audit |
+| Current stage | Stage 3 — Literature/gap direction reported |
 | Current flow gate | FG1 · NOT ASSESSED |
-| **Destination** | Audit the relation architecture among bounded DJD, POS, Burnout and individual Adaptive Performance (`GAP-006`), integrate with `GAP-003`, then complete remaining parity/citation-chasing checks before reporting GRO-03 |
-| Awaiting your verification | — |
+| **Destination** | Researcher verification of GRO-03; only after verification may Stage 4 novelty/RQ framing proceed |
+| Awaiting your verification | **GRO-03 · Literature and gap** |
 | Sections verified | 2 of 11 |
-| `brain.md` commit | Issue #37 working-branch sync; `GAP-005` resolved under `DEC-019`; final merge commit pending |
+| `brain.md` commit | Issue #41 working-branch sync; `GAP-006` resolved under `DEC-020`; final merge commit pending |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
@@ -52,18 +52,16 @@ Job Demands–Resources Theory is proposed as Ferry’s primary grand theory bec
 
 ## GRO-03 · Literature and gap
 
-- Status: NOT YET REACHED
+- Status: REPORTED
 - Flow stage / gate: Stage 3 · FG1
-- Version: — · not yet written
-- Basis: —
+- Version: 1.0 · 2026-10-11 · Issue #41
+- Basis: LIT-001; LIT-002; LIT-010–LIT-013; GAP-003; GAP-006; SRC-048–SRC-056; DEC-019; DEC-020
 - Verified by / date: —
 
-Reports what the empirical literature shows, and the gap that follows from it. One paragraph, at most ~120 words, stating the direction this
-part takes and the reasoning behind it, written for someone who has not read the
-repository.
+Empirical literature supports a demand–resource architecture rather than a burnout-mediation chain. Specific digital demands are repeatedly linked to strain/burnout, but policing evidence does not yet cleanly isolate bounded DJD from operational workload or digital-skill mismatch. POS is comparatively well supported as a lower-burnout resource and has broader evidence linking it to Adaptive Performance. Burnout shows a modest adverse performance association, but evidence is insufficient to lock it as mediator of Adaptive Performance. Digital demands may operate as challenge or hindrance demands, so their performance direction remains open. The defensible unresolved problem is how bounded DJD and POS relate to personnel health and Adaptive Performance under high-intensity policing modernization, not whether one exact four-variable model is absent.
 
-- What this forecloses: —
-- Not yet settled: relation-specific evidence for Adaptive Performance; synthesis of `GAP-003` and `GAP-006`; remaining search-parity limits.
+- What this forecloses: restoring Burnout mediation for model sophistication; claiming all DJD reduce Adaptive Performance; treating absence of an exact four-variable paper as novelty; treating focused-search non-retrieval as proof of literature absence.
+- Not yet settled: final RQs/hypotheses; whether DJD–Adaptive Performance is modeled as directional or exploratory; measurement choices; research design; novelty/contribution; authenticated Scopus/WoS parity.
 
 ## GRO-04 · Novelty
 

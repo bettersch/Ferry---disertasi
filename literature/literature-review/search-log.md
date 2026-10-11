@@ -1,7 +1,7 @@
 # Stage 3 empirical search log
 
-Issues: #29; #32; #37  
-Search parameters: `PRM-002-search-empirical.md`; `PRM-004-gap005-outcome-audit.md`  
+Issues: #29; #32; #37; #41  
+Search parameters: `PRM-002-search-empirical.md`; `PRM-004-gap005-outcome-audit.md`; `PRM-005-gap006-relation-audit.md`  
 Screening parameter: `PRM-003-screening-empirical.md`  
 Date: 2026-10-11
 
@@ -32,12 +32,19 @@ Important: the counts below are the number of records **returned/displayed by El
 | RUN-026 | Elicit academic corpus | `police organizational readiness change readiness policing emergency services operational readiness employee perceptions` | 2010–2026; retracted excluded | 10 | Police readiness/emergency-readiness comparator |
 | RUN-027 | Elicit academic corpus | `police organizational agility strategic agility policing public safety employee perception agility resilience police` | 2015–2026; retracted excluded | 10 | Police/public-sector agility comparator |
 | RUN-028 | Elicit academic corpus | `police adaptive performance employee adaptability police officers adaptive performance scale` | 2015–2026; retracted excluded | 10 | Police adaptive-performance/adaptability comparator |
+| RUN-029 | Elicit academic corpus | `digital job demands adaptive performance technostress adaptive performance employees digital overload adaptive performance` | 2018–2026; retracted excluded | 15 | Direct/adjacent digital-demand → Adaptive Performance evidence |
+| RUN-030 | Elicit academic corpus | `perceived organizational support adaptive performance employees police adaptive performance organizational support` | 2015–2026; retracted excluded | 15 | POS → Adaptive Performance and policing-transferability evidence |
+| RUN-031 | Elicit academic corpus | `burnout adaptive performance employees emotional exhaustion adaptive performance longitudinal performance` | 2015–2026; retracted excluded | 15 | Burnout ↔ Adaptive Performance and mediation evidence |
+| RUN-032 | Elicit academic corpus | `police burnout adaptive performance job performance emotional exhaustion performance police officers longitudinal` | 2015–2026; retracted excluded | 15 | Police burnout/exhaustion → performance evidence |
+| RUN-033 | Elicit academic corpus | `job demands resources adaptive performance work engagement burnout adaptive performance longitudinal employees` | 2015–2026; retracted excluded | 15 | JD-R performance architecture and engagement rival mechanism |
+| RUN-034 | Elicit academic corpus | `organizational support adaptive performance longitudinal supervisor-rated adaptive performance perceived organizational support` | 2010–2026; retracted excluded | 12 | Stronger-design support → Adaptive Performance evidence |
+| RUN-035 | Elicit academic corpus | `technology demands challenge hindrance adaptive performance digital demands employee adaptation performance techno overload performance longitudinal` | 2018–2026; retracted excluded | 15 | Challenge/hindrance boundary for digital demands and performance |
 
 ## Screening notes
 
-- Existing registered sources `SRC-010`, `SRC-012`–`SRC-036` were re-used where they remained the closest comparator or direct locus/context source.
-- Issue #37 added `SRC-037`–`SRC-047` for organizational-resilience measurement, readiness, agility, adaptive-performance measurement/localization, police readiness and organizational-effectiveness comparison.
+- Existing registered sources `SRC-010`, `SRC-012`–`SRC-047` were re-used where they remained the closest comparator or direct locus/context source.
+- Issue #41 added `SRC-048`–`SRC-056` for longitudinal police JD-R evidence, police burnout/performance, meta-analytic burnout/performance, POS–Adaptive Performance, digital challenge/hindrance evidence and an exact-but-cross-sectional demand→burnout→Adaptive Performance comparator.
 - Studies of **employee/personal resilience** remain excluded from the POR core unless they directly inform a construct boundary.
-- Readiness-for-change, emergency readiness, strategic agility, adaptive performance and perceived effectiveness are treated as non-interchangeable rivals, not synonyms for resilience.
+- Readiness-for-change, emergency readiness, strategic agility, Adaptive Performance and perceived effectiveness are treated as non-interchangeable constructs.
 - `RUN-015` returning zero records is not treated as evidence of absence.
 - Search saturation is not claimed. Authenticated Scopus/WoS parity remains required before a final systematic literature-absence claim.
