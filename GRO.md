@@ -10,12 +10,12 @@ The only part of this file that is overwritten. Sections below keep their histor
 |---|---|
 | Project | Ferry — Doctoral Dissertation on Korbrimob Polri |
 | Builder version / mode | 0.3.0 · RESEARCH |
-| Current stage | Stage 4 — Research questions reported |
-| Current flow gate | FG1 · NOT ASSESSED |
-| **Destination** | Researcher verification of GRO-05; only after verification may formal FG1 assessment and Stage 5 method framing proceed |
-| Awaiting your verification | **GRO-05 · Research questions** |
-| Sections verified | 4 of 11 |
-| `brain.md` commit | `c46b99d86517ba072fff3decf59a8f03f864d81f` (Issue #47 merged via PR #48; GRO-04 verified; `RQ-001`–`RQ-003`, `CTB-001`, and `IMP-001`–`IMP-002` reported) |
+| Current stage | Stage 4 framing complete · Stage 5 method framing authorized |
+| Current flow gate | FG1 · READY |
+| **Destination** | Stage 5 method framing from the verified RQs; next researcher checkpoint is GRO-06 · Method |
+| Awaiting your verification | NONE |
+| Sections verified | 5 of 11 |
+| `brain.md` commit | `a410a530218e67b0766706af6710b3ff70113cb9` (Issue #50 working branch; GRO-05 verified, individual unit locked, formal FG1 review recorded) |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
@@ -78,16 +78,16 @@ Ferry's defensible novelty is not a new grand theory, the Korbrimob setting, or 
 
 ## GRO-05 · Research questions
 
-- Status: REPORTED
+- Status: VERIFIED
 - Flow stage / gate: Stage 4 · FG1
 - Version: 1.0 · 2026-10-11 · Issue #47 / PR #48
-- Basis: GAP-007; NOV-001; RQ-001–RQ-003; CTB-001; IMP-001–IMP-002; DEC-022
-- Verified by / date: —
+- Basis: GAP-007; NOV-001; RQ-001–RQ-003; CTB-001; IMP-001–IMP-002; DEC-022; DEC-023
+- Verified by / date: Researcher (explicit continuation approval after verification request) / 11 October 2026
 
 Ferry will use three bounded, association-based questions rather than a mediation model. First, can relevant Digital Job Demands be empirically distinguished from general operational workload and digital-skill mismatch among Korbrimob personnel? Second, how are bounded DJD and POS associated with Burnout? Third, how are bounded DJD, POS, and Burnout associated with Adaptive Performance? Current evidence supports directional expectations for DJD–Burnout (+), POS–Burnout (−), POS–Adaptive Performance (+), and Burnout–Adaptive Performance (−), while DJD–Adaptive Performance remains exploratory because challenge/hindrance evidence is mixed. The questions are person-level and non-causal, and construct validity is treated as a prerequisite rather than assuming the DJD label is valid.
 
 - What this forecloses: restoring a Burnout mediation chain; causal-effect wording before identification; a universal negative DJD→Adaptive Performance hypothesis; treating operational workload or digital-skill mismatch as interchangeable with DJD; adding moderators only for model complexity.
-- Not yet settled: final unit-of-analysis lock after researcher verification; exact DJD dimensions/instruments; comparator measurement; paradigm; design; sampling; identification; controls; estimator; authenticated Scopus/WoS parity; final title.
+- Not yet settled: exact DJD dimensions/instruments; comparator measurement; paradigm; design; sampling; identification; controls; estimator; broader database parity; final title.
 
 ## GRO-06 · Method
 
