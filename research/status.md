@@ -90,7 +90,7 @@ Open Stage 5 risks already identified by the FG1 review are construct/discrimina
 
 ## Formal G0/FG0 context assessment
 
-Issue #52 inspected the repository and available Project/conversation files before asking the researcher for missing context. The researcher-uploaded internal schedule is registered as `DAT-001` and establishes only a working August 2026–June 2027 roadmap, an internal-review/client-discussion workflow, and that respondent/informant access was still a planned dependency in that roadmap. It is **not** an institutional regulation, formal supervisor appointment, ethics approval, or access authorization. filecite markers are not used inside repository artifacts; see `DAT-001` for locators.
+Issue #52 inspected the repository and available Project/conversation files before asking the researcher for missing context. The researcher-uploaded internal schedule is registered as `DAT-001` and establishes only a working August 2026–June 2027 roadmap, an internal-review/client-discussion workflow, and that respondent/informant access was still a planned dependency in that roadmap. It is **not** an institutional regulation, formal supervisor appointment, ethics approval, or access authorization; `DAT-001` records the source locators and limits of use.
 
 The formal review records **G0 = REVISION REQUIRED; FG0 = REVISION REQUIRED** because two method-critical inputs remain unverified:
 
