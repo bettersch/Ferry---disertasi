@@ -14,10 +14,10 @@ This is an actual research workspace. Substantive work follows the Issue → bra
 | Institutional dissertation guidelines | NOT YET VERIFIED | Researcher/institution required |
 | Supervisor/advisor and review mechanism | NOT YET VERIFIED | Researcher/institution required |
 | Initial topic/problem | Candidate problem: human health and adaptive-performance implications of Korbrimob digital modernization while maintaining high-intensity operational responsibilities. The prior title — **“Hubungan Tuntutan Kerja Digital dan Dukungan Organisasi yang Dirasakan dengan Ketahanan Organisasi: Peran Mediasi Burnout pada Personel Korps Brimob Polri.”** — is historical only. Neither “Ketahanan Organisasi” nor “Peran Mediasi Burnout” is a current locked title/model claim. | `SRC-001`; `DEC-007`; `DEC-018`; `DEC-019`; `DEC-020` |
-| Research questions and objectives | NOT YET DECIDED. They must be derived after researcher verification of GRO-03 and Stage 4 novelty framing. | Research-framing rule; `DEC-020` |
+| Research questions and objectives | NOT YET DECIDED. They must be derived only after researcher verification or revision of GRO-04 and the provisional novelty direction. | Research-framing rule; `DEC-021` |
 | Unit of analysis/corpus/population | Candidate locus/population: Korbrimob Polri personnel. Current focal domains are person-level bounded DJD, POS, Burnout and individual Adaptive Performance. True Organizational Resilience remains organization-level; POR/readiness/agility remain contextual/rival domains. | `DEC-018`; `DEC-019`; `DEC-020` |
 | Study context and time boundary | Korbrimob Polri, Indonesia; strategic context Renstra 2025–2029; empirical study period NOT YET DECIDED | `SRC-001` |
-| Literature and data access | Renstra and four prior variable matrices are available. Focused Stage 3 reconstruction, GAP-004 directionality audit, GAP-005 outcome audit and GAP-006 relation audit are complete. Authenticated Scopus/Web of Science parity/citation chasing remains outstanding. Participant/internal-data access NOT YET VERIFIED. | Issues #29, #32, #37, #41; `RUN-006`–`RUN-035`; `DEC-020` |
+| Literature and data access | Renstra and four prior variable matrices are available. Focused Stage 3 reconstruction, GAP-004 directionality audit, GAP-005 outcome audit, GAP-006 relation audit and bounded Stage 4 novelty audit are complete. Authenticated Scopus/Web of Science parity/citation chasing remains outstanding. Participant/internal-data access NOT YET VERIFIED. | Issues #29, #32, #37, #41, #44; `RUN-006`–`RUN-040`; `DEC-021` |
 | Time, budget, and capacity | NOT YET VERIFIED | Researcher input required |
 | Paradigm and rationale | NOT YET DECIDED | Must follow the research problem and questions |
 | Methodological decision framework | Creswell & Creswell (2023), 6th ed. | Better Research default |
@@ -27,7 +27,7 @@ This is an actual research workspace. Substantive work follows the Issue → bra
 | Manuscript/output format | Dissertation/proposal expected; institutional template NOT YET VERIFIED | Institutional guideline required |
 | AI and authorship policy | NOT YET VERIFIED | Institution/publisher policy required; actual AI use is logged |
 | Ethics and data requirements | NOT YET VERIFIED. No approval, permission, or access is assumed. | Academic-integrity rule |
-| Intended form of contribution | NOT YET ESTABLISHED; must emerge from verified theory/evidence gaps | Research-framing rule |
+| Intended form of contribution | **PROVISIONAL:** theory-boundary + construct-clarification + empirical-pattern contribution within digital JD-R, with contextual extension secondary. This direction is REPORTED at GRO-04 and is not yet researcher-verified or a final contribution claim. | `DEC-021`; `NOV-001` |
 
 ## Language policy
 
@@ -60,6 +60,16 @@ Under `DEC-018`–`DEC-020`, **Burnout mediation is not restored**. Adaptive Per
 
 General workload, digital capability mismatch, leadership, staffing, objective resources, trust/safety climate, work engagement/job crafting and self-efficacy remain important rival mechanisms or conditions; none is added as a focal construct at this stage.
 
+## Stage 4 novelty position
+
+The Stage 4 counterevidence audit deliberately tested and rejected inflated novelty claims. Direct policing evidence already covers technology difficulty/support and well-being, police-change research already covers resource/challenge processes and adaptivity, and broader digital-work research already demonstrates differentiated digital demands and double-edged performance/adaptation consequences.
+
+The live gap is therefore `GAP-007`: the inspected corpus does not yet establish which digital-demand contents in high-intensity policing are distinct from ordinary operational workload and digital-skill mismatch, or whether those bounded demands show asymmetric relations with Burnout and Adaptive Performance alongside POS.
+
+`NOV-001` provisionally positions the dissertation as a **theory-boundary + construct-clarification + empirical-pattern test** of digital JD-R. The intended contribution is to clarify the boundary and divergent outcome pattern of digital demands, not to introduce a new theory, a new country, or a missing exact variable combination.
+
+This novelty remains provisional until GRO-04 is researcher-verified and later measurement/design choices demonstrate that the relevant constructs can actually be separated and that rival explanations can be addressed.
+
 ## Uncertainties that determine later stages
 
 Still required:
@@ -67,11 +77,12 @@ Still required:
 1. institutional dissertation guidelines/version;
 2. formal supervisory/review mechanism;
 3. access and permission status for the intended locus/data;
-4. researcher verification or revision of GRO-03;
+4. researcher verification or revision of GRO-04;
 5. authenticated Scopus/Web of Science parity before any strong literature-absence claim;
-6. final novelty, research questions and hypotheses;
-7. measurement, design, sampling, identification, analysis and contribution.
+6. final research questions and hypotheses;
+7. exact DJD dimensions and measurement/discriminant validity;
+8. design, sampling, identification, analysis and final contribution wording.
 
 ## Scope boundary
 
-The current scope does **not** approve Burnout mediation, a signed DJD→Adaptive Performance hypothesis, a final Adaptive Performance instrument, mixed methods, PLS-SEM, any causal direction, novelty or contribution. GRO-03 is reported, not yet verified; the final title remains open.
+The current scope does **not** approve Burnout mediation, a signed DJD→Adaptive Performance hypothesis, a final DJD or Adaptive Performance instrument, mixed methods, PLS-SEM, any causal direction, a “first/only study” claim, or a final contribution statement. GRO-03 is verified; GRO-04 is reported but not yet verified. The final title remains open.
