@@ -39,11 +39,12 @@
 
 ## Statements this item supports
 
-| Statement ID | Relation | Locator within the data | Limit of use |
-|---|---|---|---|
-| CTX-005 | SUPPORTS | Page 1: `Agustus 2026 – Juni 2027`, `Roadmap penelitian 11 bulan disepakati`; pages 1–3 schedule | Supports a working project timeline only; does not establish an institutional deadline |
-| CTX-006 | SUPPORTS | Pages 1–3: recurring `Review Internal (Pak Adriza)` followed by `Pembahasan dengan Client` | Supports the existence of an internal/client review workflow only; does not identify a formal university supervisor or examination mechanism |
-| CTX-007 | SUPPORTS | Page 3: Stage 9 notes `Perlu kepastian akses responden/informan dari Client` and a planned `Komitmen akses responden / informan dari Client` | Shows that participant access was still a planned dependency in this roadmap; it does not establish current access or permission status |
+No new `CTX` statement is registered from this planning artifact before G0 closure. The item is used as contextual evidence in `reviews/2026-10-11-fg0-context.md` only.
+
+Relevant locators for that review:
+- Page 1: `Agustus 2026 – Juni 2027` and `Roadmap penelitian 11 bulan disepakati` — supports a working project timeline only, not an institutional deadline.
+- Pages 1–3: recurring `Review Internal (Pak Adriza)` followed by `Pembahasan dengan Client` — supports an internal/client review workflow only, not a formal university supervisor or examination mechanism.
+- Page 3: `Perlu kepastian akses responden/informan dari Client` and planned `Komitmen akses responden / informan dari Client` — shows that participant access was still a planned dependency in this roadmap, not current permission.
 
 ## Notes
 
