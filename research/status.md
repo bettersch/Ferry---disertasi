@@ -20,7 +20,7 @@ Workspace mode: RESEARCH.
 - #37 — GAP-005 downstream outcome audit: COMPLETED and merged via PR #40; `RESOLVED-REPLACE-Y`
 - #41 — GAP-006 relation architecture audit: COMPLETED and merged via PR #42; `RESOLVED-PARALLEL-ASYMMETRIC`
 - #44 — GRO-03 verification + Stage 4 novelty audit: COMPLETED and merged via PR #45; `DEC-021` recorded
-- #47 — GRO-04 verification + GRO-05 RQ/hypothesis framing: ACTIVE; `DEC-022`, `RQ-001`–`RQ-003`, `CTB-001`, `IMP-001`–`IMP-002` recorded
+- #47 — GRO-04 verification + GRO-05 RQ/hypothesis framing: COMPLETED and merged via PR #48; `DEC-022`, `RQ-001`–`RQ-003`, `CTB-001`, `IMP-001`–`IMP-002` recorded
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - Manuscript language: Indonesian (`DEC-017`)
 - GRO-05: **REPORTED — awaiting researcher verification**
@@ -97,8 +97,9 @@ The DJD–Adaptive Performance relation remains exploratory/open. These are asso
 Formal FG1 remains blocked because:
 - GRO-05 is still `REPORTED` rather than researcher-verified;
 - the focal unit of analysis should be explicitly locked as individual Korbrimob personnel after GRO-05 verification;
-- authenticated Scopus/Web of Science parity remains outstanding for the evidence gate unless a justified alternative coverage decision is recorded;
-- branch/PR mechanical coherence validation still has to pass after the new Stage 4 statements.
+- authenticated Scopus/Web of Science parity remains outstanding for the evidence gate unless a justified alternative coverage decision is recorded.
+
+Repository integrity passed for PR #48 and its merge to `main`; post-merge synchronization is metadata-only and subject to its own PR validation.
 
 ## Access and evidence limits
 
