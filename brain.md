@@ -2,7 +2,7 @@
 
 Project: Ferry doctoral dissertation — Korbrimob Polri.
 Builder version: 0.3.0. Mode: RESEARCH.
-Last synced commit: aab3261778d6001fd378768fd4acae1788d862cb (Issue #50 working-branch checkpoint before FG1 brain sync). Synced by: ChatGPT research agent, 2026-10-11.
+Last synced commit: 6e6fcf2b35bae45e2fab729abae32c3a75ae1833 (Issue #50 working-branch checkpoint before final FG1 coherence sync). Synced by: ChatGPT research agent, 2026-10-11.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
@@ -155,7 +155,7 @@ Implications promised — theoretical (to Stage 2) and practical (to the locus),
 
 Urgency — why now: the current strategic period explicitly includes technology adaptation and technology/data-analytics-based operational development (`SRC-001`); the scholarly urgency is tied to resolving the digital-demand boundary and health-versus-adaptation tension rather than assuming digitalization is harmful.
 
-FG1 check — **READY** under the formal Issue #50 gate review: G1, G2, and G3 are READY for the bounded framing. `DEC-024` limits G2 to a focused evidence reconstruction rather than systematic/comprehensive coverage. Stage 5 method framing may begin, but no method, instrument, estimator, sample, data collection, or causal claim is approved by FG1 itself.
+FG1 check — **READY** under the formal Issue #50 gate review: G1, G2, and G3 are READY for the bounded framing. `DEC-024` limits G2 to a focused evidence reconstruction rather than systematic/comprehensive coverage. This closes the FG1 framing gate itself but does not override the upstream FG0 Context gate, which remains NOT ASSESSED; Stage 5 method selection therefore remains blocked until FG0 is assessed and closed.
 
 ## Stage 5 — Method (`MTH`)
 
