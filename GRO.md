@@ -10,12 +10,12 @@ The only part of this file that is overwritten. Sections below keep their histor
 |---|---|
 | Project | Ferry — Doctoral Dissertation on Korbrimob Polri |
 | Builder version / mode | 0.3.0 · RESEARCH |
-| Current stage | Stage 4 framing complete · formal FG1 READY |
-| Current flow gate | FG1 · READY; upstream FG0 · NOT ASSESSED |
-| **Destination** | Assess and close FG0 Context before Stage 5 method selection; GRO-06 remains the next research-direction checkpoint after that upstream gate is READY |
-| Awaiting your verification | NONE |
+| Current stage | Stage 0 context remediation · Stage 4 framing complete |
+| Current flow gate | FG0 · REVISION REQUIRED; FG1 · READY |
+| **Destination** | Close Issue #52 context requirements, reassess FG0, and only then begin Stage 5 method framing / GRO-06 |
+| Awaiting your verification | NONE — targeted context inputs are required, not a new GRO verification |
 | Sections verified | 5 of 11 |
-| `brain.md` commit | `a410a530218e67b0766706af6710b3ff70113cb9` (Issue #50 working branch; GRO-05 verified, individual unit locked, formal FG1 review recorded) |
+| `brain.md` commit | `170dfde08f4aaf04880b5e6dbd27508c4fa97b9e` (Issue #50 merged via PR #51; GRO-05 verified, person-level unit locked, FG1 READY) |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
