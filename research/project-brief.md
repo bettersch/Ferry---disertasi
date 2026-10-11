@@ -13,11 +13,11 @@ This is an actual research workspace. Substantive work follows the Issue → bra
 | Degree/program and institution | Doctoral Management program; institution NOT YET VERIFIED | User-provided context |
 | Institutional dissertation guidelines | NOT YET VERIFIED | Researcher/institution required |
 | Supervisor/advisor and review mechanism | NOT YET VERIFIED | Researcher/institution required |
-| Initial topic/problem | Candidate problem: human and performance implications of Korbrimob digital modernization while maintaining high-intensity operational responsibilities. The prior title — **“Hubungan Tuntutan Kerja Digital dan Dukungan Organisasi yang Dirasakan dengan Ketahanan Organisasi: Peran Mediasi Burnout pada Personel Korps Brimob Polri.”** — is historical only. Neither “Ketahanan Organisasi” nor “Peran Mediasi Burnout” is a current locked title/model claim. | `SRC-001`; `DEC-007`; `DEC-018`; `DEC-019` |
-| Research questions and objectives | NOT YET DECIDED. They must be re-derived after the relation-specific Adaptive Performance audit and GRO-03. | Research-framing rule; `DEC-019` |
-| Unit of analysis/corpus/population | Candidate locus/population: Korbrimob Polri personnel. The working domains for the next audit are person-level bounded DJD, POS, Burnout, and individual Adaptive Performance. True Organizational Resilience remains organization-level; POR is retained only as a contextual/rival domain. | `DEC-018`; `DEC-019` |
+| Initial topic/problem | Candidate problem: human health and adaptive-performance implications of Korbrimob digital modernization while maintaining high-intensity operational responsibilities. The prior title — **“Hubungan Tuntutan Kerja Digital dan Dukungan Organisasi yang Dirasakan dengan Ketahanan Organisasi: Peran Mediasi Burnout pada Personel Korps Brimob Polri.”** — is historical only. Neither “Ketahanan Organisasi” nor “Peran Mediasi Burnout” is a current locked title/model claim. | `SRC-001`; `DEC-007`; `DEC-018`; `DEC-019`; `DEC-020` |
+| Research questions and objectives | NOT YET DECIDED. They must be derived after researcher verification of GRO-03 and Stage 4 novelty framing. | Research-framing rule; `DEC-020` |
+| Unit of analysis/corpus/population | Candidate locus/population: Korbrimob Polri personnel. Current focal domains are person-level bounded DJD, POS, Burnout and individual Adaptive Performance. True Organizational Resilience remains organization-level; POR/readiness/agility remain contextual/rival domains. | `DEC-018`; `DEC-019`; `DEC-020` |
 | Study context and time boundary | Korbrimob Polri, Indonesia; strategic context Renstra 2025–2029; empirical study period NOT YET DECIDED | `SRC-001` |
-| Literature and data access | Renstra and four prior variable matrices are available. Focused Stage 3 reconstruction, GAP-004 directionality audit, and GAP-005 outcome audit are complete. Relation-specific Adaptive Performance auditing and authenticated Scopus/Web of Science parity/citation chasing remain outstanding. Participant/internal-data access NOT YET VERIFIED. | Issues #29, #32, #37; `RUN-006`–`RUN-028`; `DEC-019` |
+| Literature and data access | Renstra and four prior variable matrices are available. Focused Stage 3 reconstruction, GAP-004 directionality audit, GAP-005 outcome audit and GAP-006 relation audit are complete. Authenticated Scopus/Web of Science parity/citation chasing remains outstanding. Participant/internal-data access NOT YET VERIFIED. | Issues #29, #32, #37, #41; `RUN-006`–`RUN-035`; `DEC-020` |
 | Time, budget, and capacity | NOT YET VERIFIED | Researcher input required |
 | Paradigm and rationale | NOT YET DECIDED | Must follow the research problem and questions |
 | Methodological decision framework | Creswell & Creswell (2023), 6th ed. | Better Research default |
@@ -44,17 +44,21 @@ Repository documentation remains in English. **The dissertation manuscript is wr
 
 `SRC-001` registers the user-supplied **Rencana Strategis Korps Brimob Polri Tahun 2025–2029 (KEP/299/V/2025, 23 May 2025)** as mandatory locus/problem guidance. It supports documented high-intensity operational responsibilities, digital/technology adaptation, personnel capability development, resource/welfare constraints, leadership/governance issues, organizational-adaptation priorities, adaptive/competent personnel targets, and performance/capability indicators.
 
-It does **not** establish DJD or burnout levels, POS levels, adaptive-performance levels, actual Organizational Resilience, or any causal relation.
+It does **not** establish DJD or burnout levels, POS levels, Adaptive Performance levels, actual Organizational Resilience, or any causal relation.
 
 ## Current Stage 3 architecture
 
-The retained upstream domains are **bounded Digital Job Demands**, **Perceived Organizational Support**, and **Burnout**. Police evidence for POS–burnout is comparatively strong; DJD–burnout remains plausible but construct-boundary and policing-specific evidence are less mature.
+The working architecture is **parallel/asymmetric**, not a burnout-mediation chain.
 
-Under `DEC-018`, **Burnout→POR and DJD/POS→Burnout→POR mediation remain removed**.
+- **DJD–Burnout:** retained as a theory-consistent positive association, with policing-specific DJD boundaries still under-evidenced.
+- **POS–Burnout:** retained as the strongest police-specific resource/health relation.
+- **POS–Adaptive Performance:** retained as a qualified positive association; direct police evidence remains limited.
+- **Burnout–Adaptive Performance:** retained as a qualified adverse association based on broader meta-analytic/performance and police evidence; Burnout is not locked as mediator.
+- **DJD–Adaptive Performance:** direction remains open because digital/job demands may function as challenge or hindrance demands depending on content/appraisal/resources.
 
-Under `DEC-019`, `GAP-005` is resolved by replacing POR as the focal working Y with **individual Adaptive Performance** for the next Stage 3 audit. This decision is based on level compatibility, direct Renstra alignment with adaptive/competent personnel and performance, mature person-level literature, and Indonesian scale-validation evidence. It does **not** approve any direct or mediated structural path.
+Under `DEC-018`–`DEC-020`, **Burnout mediation is not restored**. Adaptive Performance is the working person-level performance/adaptation outcome. POR, readiness and agility remain contextual/rival adaptation domains.
 
-POR, readiness and agility remain important contextual/rival adaptation domains. General workload, digital capability mismatch, leadership, staffing, objective resources, trust/safety climate and engagement remain mandatory rival explanations.
+General workload, digital capability mismatch, leadership, staffing, objective resources, trust/safety climate, work engagement/job crafting and self-efficacy remain important rival mechanisms or conditions; none is added as a focal construct at this stage.
 
 ## Uncertainties that determine later stages
 
@@ -63,11 +67,11 @@ Still required:
 1. institutional dissertation guidelines/version;
 2. formal supervisory/review mechanism;
 3. access and permission status for the intended locus/data;
-4. relation-specific audit of DJD/POS/Burnout and Adaptive Performance (`GAP-006`);
-5. remaining Stage 3 parity/citation-chasing checks before any final literature-absence/gap claim;
-6. final research questions and hypotheses;
-7. measurement, design, sampling, identification, analysis, novelty and contribution.
+4. researcher verification or revision of GRO-03;
+5. authenticated Scopus/Web of Science parity before any strong literature-absence claim;
+6. final novelty, research questions and hypotheses;
+7. measurement, design, sampling, identification, analysis and contribution.
 
 ## Scope boundary
 
-The current scope does **not** approve Burnout mediation, direct DJD/POS→Adaptive Performance paths, a final Adaptive Performance instrument, mixed methods, PLS-SEM, any causal direction, novelty or contribution. The final title and GRO-03 must wait for the relation-specific evidence audit.
+The current scope does **not** approve Burnout mediation, a signed DJD→Adaptive Performance hypothesis, a final Adaptive Performance instrument, mixed methods, PLS-SEM, any causal direction, novelty or contribution. GRO-03 is reported, not yet verified; the final title remains open.
