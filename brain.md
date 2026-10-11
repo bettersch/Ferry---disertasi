@@ -2,7 +2,7 @@
 
 Project: Ferry doctoral dissertation — Korbrimob Polri.
 Builder version: 0.3.0. Mode: RESEARCH.
-Last synced commit: 650b16f1ef9ea93fedffd72abcdd49b2c6b02f6a (Issue #47 working-branch checkpoint before brain sync). Synced by: ChatGPT research agent, 2026-10-11.
+Last synced commit: aab3261778d6001fd378768fd4acae1788d862cb (Issue #50 working-branch checkpoint before FG1 brain sync). Synced by: ChatGPT research agent, 2026-10-11.
 
 > Every statement this research makes lives here first. The manuscript may only say what the brain already holds, and the brain may only hold what a registered record supports. Structure and identifiers follow the [data structure](docs/data-structure.md); the stages follow the [research flow](docs/research-workflow.md). Write the statements in the project's research language; keep the structure and IDs as defined.
 
@@ -34,11 +34,12 @@ Mandate, constraints, resources, access to the locus, and the paradigm with its 
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
-| CTX-001 | The dissertation research locus is Korbrimob Polri, with personnel as the candidate study population while the final unit of analysis remains undecided. | KNOWN | DEC-006; DEC-007 |  | PHN-001; PHN-002 | Introduction | FG0 |  |
+| CTX-001 | The dissertation research locus is Korbrimob Polri, with personnel as the candidate study population while the final unit of analysis remains undecided. | SUPERSEDED | DEC-006; DEC-007 |  | CTX-004 | Introduction | FG0 |  |
 | CTX-002 | This copied workspace is governed in RESEARCH mode and substantive changes must follow the Issue → branch → PR workflow. | KNOWN | DEC-006 |  |  | Project governance | FG0 |  |
 | CTX-003 | The current institutional strategic context is the Korbrimob Polri 2025–2029 strategic plan established by KEP/299/V/2025 dated 23 May 2025. | SUPPORTED | SRC-001 |  | PHN-001; PHN-002 | Introduction/context | FG0 |  |
+| CTX-004 | For the verified GRO-05 framing, the substantive unit of analysis is individual Korbrimob personnel, with bounded Digital Job Demands, Perceived Organizational Support, Burnout, and Adaptive Performance treated as person-level constructs or outcomes. | KNOWN | DEC-023 | CTX-001 | PHN-001; PHN-002; RQ-001; RQ-002; RQ-003 | Introduction / Method framing | FG1 | CTX-001 |
 
-Paradigm: NOT YET DECIDED. Reason: GRO-05 research questions are reported but not yet researcher-verified, so the paradigm remains intentionally deferred until the question set is accepted and confirmed at the later method gate.
+Paradigm: NOT YET DECIDED. Reason: the research questions and person-level unit are now verified, but paradigm/design selection belongs to Stage 5 and must follow the verified question set rather than be back-filled into the framing.
 
 ## Stage 1 — Phenomenon (`PHN`)
 
@@ -46,14 +47,14 @@ What is happening, where (locus), since when, and to whom. Evidence comes from t
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
-| PHN-001 | Korbrimob's 2025–2029 strategic plan documents a need to adapt to rapidly developing, increasingly complex information technology and directs capability development for technology- and data-analytics-based operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 | THR-003; GAP-002 | Introduction | FG0 |  |
-| PHN-002 | The same strategic plan identifies limited modernization of personnel capability in mastery of communication technology for high-intensity public-safety operations. | SUPPORTED | SRC-001; DEC-008 | CTX-001; CTX-003 | THR-003; GAP-002 | Introduction | FG0 |  |
+| PHN-001 | Korbrimob's 2025–2029 strategic plan documents a need to adapt to rapidly developing, increasingly complex information technology and directs capability development for technology- and data-analytics-based operations. | SUPPORTED | SRC-001; DEC-008 | CTX-004; CTX-003 | THR-003; GAP-002 | Introduction | FG0 |  |
+| PHN-002 | The same strategic plan identifies limited modernization of personnel capability in mastery of communication technology for high-intensity public-safety operations. | SUPPORTED | SRC-001; DEC-008 | CTX-004; CTX-003 | THR-003; GAP-002 | Introduction | FG0 |  |
 
 Locus: Korbrimob Polri. The Stage 1 phenomenon is institutional digital modernization/adaptation under high-intensity operational conditions; employee-level demands, resources, health outcomes, and organizational-capability outcomes remain to be established rather than assumed.
 
 ## Stage 2 — Theory (`THR`) and theory gaps (`GAP`)
 
-Grand theory: **Job Demands–Resources Theory — VERIFIED at GRO-02** (original source `SRC-002`). Role at Stage 2: explanatory lens for demand/resource and health-impairment mechanisms; its hypothesis-generator role is provisional for the reported GRO-05 directional expectations and remains subject to researcher verification. Targeted theory verification used `PRM-001` and `RUN-001`–`RUN-005`; no Scopus/Web of Science development search was executed in that session.
+Grand theory: **Job Demands–Resources Theory — VERIFIED at GRO-02** (original source `SRC-002`). Role at Stage 2: explanatory lens for demand/resource and health-impairment mechanisms; its hypothesis-generator role now supports the verified GRO-05 directional association expectations, subject to Stage 5 design and identification limits. Targeted theory verification used `PRM-001` and `RUN-001`–`RUN-005`; no Scopus/Web of Science development search was executed in that session.
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
@@ -129,32 +130,32 @@ Novelty — the position of this study relative to the state of the art; it must
 |---|---|---|---|---|---|---|---|---|
 | NOV-001 | Ferry's defensible novelty is a provisional theory-boundary, construct-clarification and empirical-pattern test of whether a clearly bounded digital job-demand domain, distinguished from general operational workload and digital-skill mismatch, shows asymmetric relations with Burnout and Adaptive Performance alongside POS in high-intensity policing, rather than a claim of a new grand theory, unique context or exact variable combination. | INFERRED | DEC-021; PRM-006; RUN-036; RUN-037; RUN-038; RUN-039; RUN-040; SRC-057; SRC-058; SRC-059; SRC-060; SRC-061; SRC-062; SRC-063 | GAP-007; THR-003; THR-004; LIT-014; LIT-015 | RQ-001; RQ-002; RQ-003; CTB-001 | Introduction / novelty | FG1 |  |
 
-Research questions — derived from the results of the theoretical review and the novelty; each traces to a named gap; current wording is reported for researcher verification rather than treated as final:
+Research questions — derived from the results of the theoretical review and the novelty; each traces to a named gap; the current wording is VERIFIED at GRO-05 and remains associative rather than causal:
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
-| RQ-001 | Sejauh mana Tuntutan Kerja Digital yang relevan bagi personel Korbrimob Polri dapat dibedakan secara empiris dari beban kerja operasional umum dan ketidakcocokan keterampilan digital? | DECISION NEEDED | DEC-022 | GAP-007; NOV-001; GAP-002 | CTB-001; IMP-001 | Introduction / RQ | FG1 |  |
-| RQ-002 | Bagaimana hubungan Tuntutan Kerja Digital yang telah dibatasi secara konseptual dan Perceived Organizational Support dengan Burnout pada personel Korbrimob Polri? | DECISION NEEDED | DEC-022 | GAP-007; NOV-001; THR-002; THR-005; LIT-001; LIT-002 | CTB-001; IMP-001; IMP-002 | Introduction / RQ | FG1 |  |
-| RQ-003 | Bagaimana hubungan Tuntutan Kerja Digital yang telah dibatasi secara konseptual, Perceived Organizational Support, dan Burnout dengan Adaptive Performance pada personel Korbrimob Polri? | DECISION NEEDED | DEC-022 | GAP-007; NOV-001; LIT-010; LIT-011; LIT-012; LIT-013 | CTB-001; IMP-001; IMP-002 | Introduction / RQ | FG1 |  |
+| RQ-001 | Sejauh mana Tuntutan Kerja Digital yang relevan bagi personel Korbrimob Polri dapat dibedakan secara empiris dari beban kerja operasional umum dan ketidakcocokan keterampilan digital? | KNOWN | DEC-022; DEC-023 | GAP-007; NOV-001; GAP-002 | CTB-001; IMP-001 | Introduction / RQ | FG1 |  |
+| RQ-002 | Bagaimana hubungan Tuntutan Kerja Digital yang telah dibatasi secara konseptual dan Perceived Organizational Support dengan Burnout pada personel Korbrimob Polri? | KNOWN | DEC-022; DEC-023 | GAP-007; NOV-001; THR-002; THR-005; LIT-001; LIT-002 | CTB-001; IMP-001; IMP-002 | Introduction / RQ | FG1 |  |
+| RQ-003 | Bagaimana hubungan Tuntutan Kerja Digital yang telah dibatasi secara konseptual, Perceived Organizational Support, dan Burnout dengan Adaptive Performance pada personel Korbrimob Polri? | KNOWN | DEC-022; DEC-023 | GAP-007; NOV-001; LIT-010; LIT-011; LIT-012; LIT-013 | CTB-001; IMP-001; IMP-002 | Introduction / RQ | FG1 |  |
 
 Working directional expectations under `DEC-022` are associative, not causal: DJD–Burnout (+), POS–Burnout (−), POS–Adaptive Performance (+), and Burnout–Adaptive Performance (−). DJD–Adaptive Performance remains exploratory/open; Burnout mediation and POS moderation are not restored.
 
-Contribution statement — one sentence, restated in the title, abstract, end of introduction, and discussion after researcher verification and later findings support it:
+Contribution statement — one sentence, restated in the title, abstract, end of introduction, and discussion only if later design/findings continue to support it:
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
-| CTB-001 | Penelitian Ferry berkontribusi dengan menguji batas penerapan digital JD-R pada high-intensity policing melalui pembedaan tuntutan kerja digital dari beban operasional umum dan ketidakcocokan keterampilan digital serta pengujian pola hubungan asimetrisnya dengan Burnout dan Adaptive Performance bersama POS sebagai sumber daya organisasi yang dipersepsikan. | DECISION NEEDED | DEC-022 | NOV-001; RQ-001; RQ-002; RQ-003 | IMP-001; IMP-002 | Title / Abstract / Introduction / Discussion | FG1 |  |
+| CTB-001 | Penelitian Ferry berkontribusi dengan menguji batas penerapan digital JD-R pada high-intensity policing melalui pembedaan tuntutan kerja digital dari beban operasional umum dan ketidakcocokan keterampilan digital serta pengujian pola hubungan asimetrisnya dengan Burnout dan Adaptive Performance bersama POS sebagai sumber daya organisasi yang dipersepsikan. | INFERRED | DEC-021; DEC-022; DEC-023 | NOV-001; RQ-001; RQ-002; RQ-003 | IMP-001; IMP-002 | Title / Abstract / Introduction / Discussion | FG1 |  |
 
 Implications promised — theoretical (to Stage 2) and practical (to the locus), each with the actor named; every promised implication is delivered or withdrawn in Stage 7:
 
 | ID | Statement | Status | Evidence | Upstream | Downstream | Manuscript | Gate | Supersedes |
 |---|---|---|---|---|---|---|---|---|
-| IMP-001 | Bagi literatur JD-R dan digital JD-R, penelitian ini menjanjikan klarifikasi tentang batas konstruk Tuntutan Kerja Digital dan perlunya membedakan konsekuensi health-impairment dari Adaptive Performance tanpa mengasumsikan semua digital demands bersifat merugikan. | DECISION NEEDED | DEC-022 | CTB-001; THR-003; THR-004; RQ-001; RQ-002; RQ-003 |  | Introduction / Discussion | FG1 |  |
-| IMP-002 | Bagi pimpinan dan fungsi SDM Korbrimob Polri, penelitian ini menjanjikan dasar empiris untuk membedakan tuntutan digital spesifik yang terkait dengan strain dari kondisi dukungan yang terkait dengan fungsi adaptif, dengan rekomendasi akhir tetap dibatasi oleh desain dan hasil penelitian. | DECISION NEEDED | DEC-022 | CTX-003; PHN-001; PHN-002; CTB-001; RQ-002; RQ-003 |  | Introduction / Discussion | FG1 |  |
+| IMP-001 | Bagi literatur JD-R dan digital JD-R, penelitian ini menjanjikan klarifikasi tentang batas konstruk Tuntutan Kerja Digital dan perlunya membedakan konsekuensi health-impairment dari Adaptive Performance tanpa mengasumsikan semua digital demands bersifat merugikan. | INFERRED | DEC-021; DEC-022; DEC-023 | CTB-001; THR-003; THR-004; RQ-001; RQ-002; RQ-003 |  | Introduction / Discussion | FG1 |  |
+| IMP-002 | Bagi pimpinan dan fungsi SDM Korbrimob Polri, penelitian ini menjanjikan dasar empiris untuk membedakan tuntutan digital spesifik yang terkait dengan strain dari kondisi dukungan yang terkait dengan fungsi adaptif, dengan rekomendasi akhir tetap dibatasi oleh desain dan hasil penelitian. | INFERRED | DEC-022; DEC-023 | CTX-003; PHN-001; PHN-002; CTB-001; RQ-002; RQ-003 |  | Introduction / Discussion | FG1 |  |
 
 Urgency — why now: the current strategic period explicitly includes technology adaptation and technology/data-analytics-based operational development (`SRC-001`); the scholarly urgency is tied to resolving the digital-demand boundary and health-versus-adaptation tension rather than assuming digitalization is harmful.
 
-FG1 check — the chain Phenomenon → Theory → Gap → Novelty → RQ is now structurally connected through `GAP-007` → `NOV-001` → `RQ-001`–`RQ-003`, but formal FG1 remains NOT ASSESSED because GRO-05 is still REPORTED, the final unit-of-analysis lock is pending researcher acceptance of the RQ direction, and authenticated Scopus/Web of Science parity remains outstanding for the evidence gate.
+FG1 check — **READY** under the formal Issue #50 gate review: G1, G2, and G3 are READY for the bounded framing. `DEC-024` limits G2 to a focused evidence reconstruction rather than systematic/comprehensive coverage. Stage 5 method framing may begin, but no method, instrument, estimator, sample, data collection, or causal claim is approved by FG1 itself.
 
 ## Stage 5 — Method (`MTH`)
 
@@ -231,7 +232,7 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 | Phenomenon feeds forward | every `PHN` has a downstream `THR`, `GAP`, or `NOV` | PASS for current Stage 2 links | PHN-001; PHN-002 |
 | Theory does work | every `THR` is used by a `DIS` in Stage 7 or explicitly found not relevant | NOT ASSESSED | THR-001–THR-007 |
 | Gaps are motivated | every live `GAP` has upstream `THR` or `LIT` and downstream `NOV` or `RQ`; `GAP-004`–`GAP-006` are superseded and `GAP-003` is refined by `GAP-007` | PASS for current live novelty chain | GAP-007; NOV-001 |
-| Questions are grounded | every `RQ` has upstream `GAP` and `NOV` | PASS structurally for reported RQs | RQ-001; RQ-002; RQ-003 |
+| Questions are grounded | every `RQ` has upstream `GAP` and `NOV` | PASS for verified RQs | RQ-001; RQ-002; RQ-003 |
 | Questions are answered | every `RQ` has at least one `FND` (FG3) and one `CCL` (FG4) | NOT ASSESSED | RQ-001; RQ-002; RQ-003 |
 | Findings have evidence | every `FND` lists at least one `DAT` or `RUN` | NOT ASSESSED | |
 | Discussion is a dialogue | every `DIS` has upstream `FND` and `THR` or `LIT` | NOT ASSESSED | |
@@ -239,6 +240,6 @@ Complete before FG1, FG3, and FG4. Status: PASS / FAIL / NOT ASSESSED, with the 
 | Limitations bite | every `LIM` names the `CCL` or `IMP` it weakens | NOT ASSESSED | |
 | Method traces | every `MTH` links a `DEC` or `PRM` | NOT ASSESSED | |
 | Manuscript is mapped | every paragraph in the outline maps to at least one statement | NOT ASSESSED | |
-| No dangling links | validator passes; coherence report shows no dangling or orphan IDs | NOT ASSESSED pending PR validation | RQ-001; RQ-002; RQ-003; CTB-001; IMP-001; IMP-002 |
+| No dangling links | validator passes; coherence report shows no dangling or orphan IDs | NOT ASSESSED pending Issue #50 PR validation | CTX-004; RQ-001; RQ-002; RQ-003; CTB-001; IMP-001; IMP-002 |
 
 A PASS here is a mechanical and structural result. It is not an academic quality gate; those are assessed in `reviews/`.
