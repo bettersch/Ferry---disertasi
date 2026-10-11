@@ -15,7 +15,7 @@ The only part of this file that is overwritten. Sections below keep their histor
 | **Destination** | Researcher verification of GRO-05; only after verification may formal FG1 assessment and Stage 5 method framing proceed |
 | Awaiting your verification | **GRO-05 · Research questions** |
 | Sections verified | 4 of 11 |
-| `brain.md` commit | `73801987a5b670b9abc870be273d104e656550a8` (Issue #47 working branch; GRO-04 verified; `RQ-001`–`RQ-003`, `CTB-001`, and `IMP-001`–`IMP-002` reported) |
+| `brain.md` commit | `c46b99d86517ba072fff3decf59a8f03f864d81f` (Issue #47 merged via PR #48; GRO-04 verified; `RQ-001`–`RQ-003`, `CTB-001`, and `IMP-001`–`IMP-002` reported) |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
@@ -80,7 +80,7 @@ Ferry's defensible novelty is not a new grand theory, the Korbrimob setting, or 
 
 - Status: REPORTED
 - Flow stage / gate: Stage 4 · FG1
-- Version: 1.0 · 2026-10-11 · Issue #47
+- Version: 1.0 · 2026-10-11 · Issue #47 / PR #48
 - Basis: GAP-007; NOV-001; RQ-001–RQ-003; CTB-001; IMP-001–IMP-002; DEC-022
 - Verified by / date: —
 
