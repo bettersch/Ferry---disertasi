@@ -15,7 +15,7 @@ The only part of this file that is overwritten. Sections below keep their histor
 | **Destination** | Researcher verification of GRO-04; only after verification may Stage 4 research-question framing proceed |
 | Awaiting your verification | **GRO-04 · Novelty** |
 | Sections verified | 3 of 11 |
-| `brain.md` commit | Issue #44 working-branch novelty audit; GRO-03 verified and `DEC-021` recorded; final merge commit pending |
+| `brain.md` commit | `1d96a9fc7b8faafd81df040e54effd90da6174b7` (Issue #44 merged via PR #45; GRO-03 verified; `DEC-021` and `NOV-001` recorded) |
 | Last updated / by | 2026-10-11 / ChatGPT research agent |
 
 ## How to read this
@@ -67,7 +67,7 @@ Empirical literature supports a demand–resource architecture rather than a bur
 
 - Status: REPORTED
 - Flow stage / gate: Stage 4 · FG1
-- Version: 1.0 · 2026-10-11 · Issue #44
+- Version: 1.0 · 2026-10-11 · Issue #44 / PR #45
 - Basis: GAP-002; GAP-003; GAP-007; LIT-014; LIT-015; NOV-001; SRC-057–SRC-063; DEC-021
 - Verified by / date: —
 
