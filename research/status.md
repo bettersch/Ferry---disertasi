@@ -1,8 +1,8 @@
 # Research Status
 
-Active stage: Stage 4 framing complete — GRO-05 verified; formal FG1 review completed; upstream FG0 still requires assessment before Stage 5 method selection.
+Active stage: Stage 0 context remediation — GRO-05 and FG1 are complete, but formal G0/FG0 assessment found method-critical context gaps before Stage 5 can begin.
 Builder status: READY TO USE.
-Research status: GRO-05 VERIFIED / G1 READY / G2 READY / G3 READY / FG1 READY / FG0 NOT ASSESSED / STAGE 5 BLOCKED BY UPSTREAM CONTEXT GATE.
+Research status: GRO-05 VERIFIED / FG1 READY / G0 REVISION REQUIRED / FG0 REVISION REQUIRED / STAGE 5 BLOCKED BY CONTEXT CLOSURE.
 Workspace mode: RESEARCH.
 
 ## Active work
@@ -22,7 +22,8 @@ Workspace mode: RESEARCH.
 - #41 — GAP-006 relation architecture audit: COMPLETED and merged via PR #42; `RESOLVED-PARALLEL-ASYMMETRIC`
 - #44 — GRO-03 verification + Stage 4 novelty audit: COMPLETED and merged via PR #45; `DEC-021` recorded
 - #47 — GRO-04 verification + GRO-05 RQ/hypothesis framing: COMPLETED and merged via PR #48; `DEC-022`, `RQ-001`–`RQ-003`, `CTB-001`, `IMP-001`–`IMP-002` recorded
-- #50 — GRO-05 verification + formal FG1 review: ACTIVE on `issue-50-gro05-fg1-review`; `DEC-023`, `DEC-024`, and formal FG1 gate review recorded
+- #50 — GRO-05 verification + formal FG1 review: COMPLETED and merged via PR #51; `DEC-023`, `DEC-024`; G1/G2/G3 and FG1 READY
+- #52 — formal G0/FG0 context assessment: ACTIVE; `DAT-001` registered; review `reviews/2026-10-11-fg0-context.md` records REVISION REQUIRED pending targeted researcher context
 - Mandatory institutional locus/problem guideline: `SRC-001` Renstra Korbrimob Polri 2025–2029
 - Manuscript language: Indonesian (`DEC-017`)
 - Unit of analysis for current framing: **individual Korbrimob personnel** (`DEC-023`)
@@ -31,7 +32,7 @@ Delivery status belongs in the relevant Issue. This file records research-stage 
 
 | Flow gate | Bundles | Status |
 |---|---|---|
-| FG0 Context | G0 | **NOT ASSESSED** |
+| FG0 Context | G0 | **REVISION REQUIRED** |
 | FG1 Framing | G1, G2, G3 | **READY** |
 | FG2 Method | G4, G5 | NOT ASSESSED |
 | FG3 Findings | G6 | NOT ASSESSED |
@@ -42,12 +43,12 @@ A reported/verified GRO section is a researcher-direction checkpoint, not an aca
 
 | Gate | Status | Audit/evidence link |
 |---|---|---|
-| G0 Context | **NOT ASSESSED** | GRO-01 verified and `SRC-001` available, but institutional dissertation guidelines, supervisor/review mechanism, access status, and feasibility constraints remain unverified; assess separately before Stage 5 |
+| G0 Context | **REVISION REQUIRED** | Formal review `reviews/2026-10-11-fg0-context.md`; exact institutional/program requirements and current person-level access feasibility are not verified; internal roadmap `DAT-001` is contextual only |
 | G1 Problem | **READY** | `GAP-007` → `NOV-001` → verified `RQ-001`–`RQ-003`; person-level unit locked by `DEC-023`; formal review `reviews/2026-10-11-fg1-framing.md` |
 | G2 Protocol & evidence | **READY** | `PRM-002`–`PRM-006`, `PRM-003`, `RUN-006`–`RUN-040`, matrix/search log/source notes; `DEC-024` limits the claim to bounded focused reconstruction; Scopus/WoS parity remains a limitation/reopen trigger |
 | G3 Theory & contribution | **READY** | GRO-02/GRO-04/GRO-05 verified; `DEC-018`–`DEC-023`; closest studies/counterevidence and rivals mapped; `CTB-001` remains empirically provisional |
-| G4 Design | NOT ASSESSED | No method/design selected; construct validity, rival mechanisms, identification and feasibility move to Stage 5 only after upstream FG0 is closed |
-| G5 Execution readiness | NOT ASSESSED | Access, permissions, ethics, instruments and procedures unverified |
+| G4 Design | NOT ASSESSED | No method/design selected; construct validity, rival mechanisms, identification and feasibility move to Stage 5 only after FG0 closure |
+| G5 Execution readiness | NOT ASSESSED | Access, permissions, ethics, instruments and procedures remain unverified |
 | G6 Results & interpretation | NOT ASSESSED | No dissertation data analysis performed |
 | G7 Manuscript & examination/review | NOT ASSESSED | Working `1.1 Latar Belakang` predates the verified novelty/RQ direction and requires later synchronization |
 
@@ -83,22 +84,20 @@ Directional expectations are DJD–Burnout (+), POS–Burnout (−), POS–Adapt
 
 ## Formal FG1 review
 
-`reviews/2026-10-11-fg1-framing.md` records:
-
-- **G1 Problem = READY**;
-- **G2 Protocol & evidence = READY** for the explicitly bounded focused evidence reconstruction;
-- **G3 Theory & contribution = READY**;
-- therefore **FG1 Framing = READY**.
-
-`DEC-024` is important: missing authenticated Scopus/Web of Science parity is a major evidence-coverage limitation and reopen trigger, but it is not a critical G2 failure for the narrow claims actually made because the project does not claim systematic/comprehensive coverage, saturation, global absence, or first/only status.
+`reviews/2026-10-11-fg1-framing.md` records G1, G2, G3 and FG1 as **READY** within the bounded framing. `DEC-024` treats missing authenticated Scopus/Web of Science parity as a major evidence-coverage limitation and reopen trigger rather than a critical G2 failure for the narrow review claims actually made.
 
 Open Stage 5 risks already identified by the FG1 review are construct/discriminant validity of DJD, rival mechanisms (including workload, digital skills, engagement/job crafting, leadership and resource conditions), and causal over-interpretation.
 
-## Upstream context-gate blocker
+## Formal G0/FG0 context assessment
 
-Formal FG1 readiness does **not** erase the fact that **FG0 Context remains NOT ASSESSED**. The repository still records the institution, dissertation guidelines, supervisor/review mechanism, access/permission status, and time/budget/capacity constraints as unverified or unknown.
+Issue #52 inspected the repository and available Project/conversation files before asking the researcher for missing context. The researcher-uploaded internal schedule is registered as `DAT-001` and establishes only a working August 2026–June 2027 roadmap, an internal-review/client-discussion workflow, and that respondent/informant access was still a planned dependency in that roadmap. It is **not** an institutional regulation, formal supervisor appointment, ethics approval, or access authorization. filecite markers are not used inside repository artifacts; see `DAT-001` for locators.
 
-Under the sequential workflow, Stage 5 method selection therefore remains blocked until G0/FG0 is assessed. This is a governance correction: it does not retract the verified RQs or FG1 result.
+The formal review records **G0 = REVISION REQUIRED; FG0 = REVISION REQUIRED** because two method-critical inputs remain unverified:
+
+1. applicable institution/program dissertation and approval requirements;
+2. realistic current access route to the intended person-level Korbrimob population.
+
+Formal supervisory/ethics constraints and current hard feasibility limits also require clarification because they may constrain design or execution.
 
 ## Access and evidence limits
 
@@ -108,7 +107,8 @@ Under the sequential workflow, Stage 5 method selection therefore remains blocke
 - No "first study" or global literature-absence claim is approved.
 - Exact DJD dimensions/instrument, boundary comparator measures, paradigm, sampling, estimator, causal identification strategy, controls and design remain undecided.
 - Participant/internal-data access, ethics/permission status and practical feasibility are not assumed.
+- Historical planning entries for mixed methods, SEM-PLS, NVivo, surveys and interviews in `DAT-001` do not constitute current methodological approval.
 
 ## Next step
 
-Assess **G0 / FG0 Context** and close any context requirement that materially constrains method selection. Only after the upstream context gate is READY should Stage 5 method framing begin.
+Close the four targeted context items in `reviews/2026-10-11-fg0-context.md`: institution/program guidance; current Korbrimob access feasibility; formal review/ethics route; and current hard deadline/resource constraints. Stage 5 method framing remains blocked until the critical G0 closure conditions are resolved.
