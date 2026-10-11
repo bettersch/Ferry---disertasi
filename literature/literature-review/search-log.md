@@ -1,7 +1,7 @@
-# Stage 3 empirical search log
+# Stage 3–4 empirical and novelty search log
 
-Issues: #29; #32; #37; #41  
-Search parameters: `PRM-002-search-empirical.md`; `PRM-004-gap005-outcome-audit.md`; `PRM-005-gap006-relation-audit.md`  
+Issues: #29; #32; #37; #41; #44  
+Search parameters: `PRM-002-search-empirical.md`; `PRM-004-gap005-outcome-audit.md`; `PRM-005-gap006-relation-audit.md`; `PRM-006-stage4-novelty-audit.md`  
 Screening parameter: `PRM-003-screening-empirical.md`  
 Date: 2026-10-11
 
@@ -39,12 +39,18 @@ Important: the counts below are the number of records **returned/displayed by El
 | RUN-033 | Elicit academic corpus | `job demands resources adaptive performance work engagement burnout adaptive performance longitudinal employees` | 2015–2026; retracted excluded | 15 | JD-R performance architecture and engagement rival mechanism |
 | RUN-034 | Elicit academic corpus | `organizational support adaptive performance longitudinal supervisor-rated adaptive performance perceived organizational support` | 2010–2026; retracted excluded | 12 | Stronger-design support → Adaptive Performance evidence |
 | RUN-035 | Elicit academic corpus | `technology demands challenge hindrance adaptive performance digital demands employee adaptation performance techno overload performance longitudinal` | 2018–2026; retracted excluded | 15 | Challenge/hindrance boundary for digital demands and performance |
+| RUN-036 | Elicit academic corpus | `police policing digital job demands technostress digital workload burnout adaptive performance digital transformation officers` | 2015–2026; retracted excluded | 15 | Counterevidence to broad novelty claims in police/public-sector digital stress, support, burnout and performance |
+| RUN-037 | Elicit academic corpus | `adaptive performance among police officers or law enforcement personnel, workplace adaptability to changing operational demands` | 2010–2026; retracted excluded | 20 | Police/law-enforcement adaptivity and Adaptive Performance precedents |
+| RUN-038 | Elicit academic corpus | `digital job demands construct job demands resources theory dimensions workload interruptions complexity uncertainty employee burnout performance` | 2018–2026; retracted excluded | 20 | Digital-demand construct differentiation and measurement boundary |
+| RUN-039 | Elicit academic corpus | `digital workload digital learning demands adaptive performance employee adaptation performance challenge hindrance` | 2018–2026; retracted excluded | 15 | Digital-demand dual paths, challenge/hindrance and Adaptive Performance |
+| RUN-040 | Elicit academic corpus | `police organizational support adaptive behavior adaptivity organizational change police officers longitudinal support adaptability` | 2010–2026; retracted excluded | 15 | Police resource/support→adaptivity precedents and rival mechanisms |
 
 ## Screening notes
 
-- Existing registered sources `SRC-010`, `SRC-012`–`SRC-047` were re-used where they remained the closest comparator or direct locus/context source.
+- Existing registered sources `SRC-010`, `SRC-012`–`SRC-056` were re-used where they remained the closest comparator or direct locus/context source.
 - Issue #41 added `SRC-048`–`SRC-056` for longitudinal police JD-R evidence, police burnout/performance, meta-analytic burnout/performance, POS–Adaptive Performance, digital challenge/hindrance evidence and an exact-but-cross-sectional demand→burnout→Adaptive Performance comparator.
+- Issue #44 added `SRC-057`–`SRC-063` as counterevidence and novelty-boundary sources: police technology/support/stress, a PRESISI-linked public-sector technostress/burnout/engagement/performance study, digital JD-R construct work, divergent digital-demand behavior, digital transformation/Adaptive Performance, and longitudinal police adaptivity/job-crafting evidence.
 - Studies of **employee/personal resilience** remain excluded from the POR core unless they directly inform a construct boundary.
 - Readiness-for-change, emergency readiness, strategic agility, Adaptive Performance and perceived effectiveness are treated as non-interchangeable constructs.
-- `RUN-015` returning zero records is not treated as evidence of absence.
+- Zero or low retrieval counts are never treated as evidence of literature absence.
 - Search saturation is not claimed. Authenticated Scopus/WoS parity remains required before a final systematic literature-absence claim.
