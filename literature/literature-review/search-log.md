@@ -1,7 +1,7 @@
 # Stage 3 empirical search log
 
-Issues: #29; #32  
-Search parameter: `PRM-002-search-empirical.md`  
+Issues: #29; #32; #37  
+Search parameters: `PRM-002-search-empirical.md`; `PRM-004-gap005-outcome-audit.md`  
 Screening parameter: `PRM-003-screening-empirical.md`  
 Date: 2026-10-11
 
@@ -21,13 +21,23 @@ Important: the counts below are the number of records **returned/displayed by El
 | RUN-015 | Elicit academic corpus, keyword mode | `"organizational resilience" burnout police OR firefighter OR emergency OR military OR public safety; empirical employee survey; perceived organizational resilience, burnout, exhaustion` | keyword-mode query | 0 | Exact public-safety OR/burnout label search |
 | RUN-016 | Elicit academic corpus | `In police, firefighters, emergency responders, military, or other high-reliability occupations, are employee perceptions of organizational resilience, adaptive capacity, readiness, agility, safety climate, or organizational ability to adapt associated with burnout or emotional exhaustion?` | 2015–2026; retracted excluded | 30 | High-reliability adaptation/burnout and common-cause evidence |
 | RUN-017 | Elicit academic corpus | `Does burnout or emotional exhaustion predict adaptive performance, change-supportive behavior, proactivity, team adaptation, organizational citizenship, learning behavior, or other employee behaviors that could plausibly contribute to organizational resilience? Empirical workplace studies, longitudinal where possible.` | 2016–2026; retracted excluded | 25 | Test a micro-behavior bridge from burnout to adaptation-relevant outcomes |
+| RUN-018 | Elicit academic corpus | `employee perceived organizational resilience scale measurement organizational resilience public sector police employee-rated resilience` | 2018–2026; retracted excluded | 12 | Employee-rated OR/POR measurement and employee-resilience boundary |
+| RUN-019 | Elicit academic corpus | `organizational readiness scale employee perception readiness for change public sector policing high reliability measurement` | 2009–2026; retracted excluded | 12 | Readiness measurement, construct scope and overlap |
+| RUN-020 | Elicit academic corpus | `organizational agility scale employee perception public sector strategic agility employee-rated agility measurement resilience` | 2015–2026; retracted excluded | 12 | Public-sector agility measurement and nomological placement |
+| RUN-021 | Elicit academic corpus | `adaptive performance scale police officers public safety employee adaptive performance measurement validated` | 2010–2026; retracted excluded | 12 | Adaptive-performance measurement and person-level outcome feasibility |
+| RUN-022 | Elicit academic corpus | `perceived organizational effectiveness employee survey public sector scale organizational effectiveness measurement employee perceptions` | 2010–2026; retracted excluded | 10 | Perceived organizational effectiveness comparator |
+| RUN-023 | Elicit academic corpus | `organizational resilience scale development employee survey public sector organizational resilience measurement validated scale anticipation coping adaptation` | 2010–2026; retracted excluded | 15 | Re-test organizational-resilience measurement maturity |
+| RUN-024 | Elicit academic corpus | `job demands resources adaptive performance employee perceived organizational support adaptive performance burnout adaptive performance public safety police` | 2015–2026; retracted excluded | 15 | JD-R/policing evidence relevant to adaptive/performance outcomes |
+| RUN-025 | Elicit academic corpus | `burnout emotional exhaustion adaptive performance empirical employees job demands resources adaptive performance` | 2015–2026; retracted excluded | 12 | Burnout/exhaustion ↔ adaptive-performance plausibility |
+| RUN-026 | Elicit academic corpus | `police organizational readiness change readiness policing emergency services operational readiness employee perceptions` | 2010–2026; retracted excluded | 10 | Police readiness/emergency-readiness comparator |
+| RUN-027 | Elicit academic corpus | `police organizational agility strategic agility policing public safety employee perception agility resilience police` | 2015–2026; retracted excluded | 10 | Police/public-sector agility comparator |
+| RUN-028 | Elicit academic corpus | `police adaptive performance employee adaptability police officers adaptive performance scale` | 2015–2026; retracted excluded | 10 | Police adaptive-performance/adaptability comparator |
 
 ## Screening notes
 
-- Existing registered sources `SRC-010`, `SRC-012`–`SRC-028` were re-used where they remained the closest comparator or direct locus/context source.
-- Issue #32 added `SRC-029`–`SRC-036` for public-sector agility, high-reliability/team resilience, first-responder climate/adaptivity, adaptive reserve, and mixed downstream exhaustion-performance evidence.
-- Proceedings-only Indonesian POS–burnout studies were not promoted to the core corpus because journal evidence exists; they remain contextual leads rather than primary Stage 3 anchors.
-- Studies of **employee resilience** were excluded from the POR core unless they directly informed a boundary/rival question.
-- Digital-transformation studies at firm level were retained as **counterevidence/rival mechanism**, because they show that digitalization can strengthen true organizational resilience even when employee-level digital demands may generate strain.
+- Existing registered sources `SRC-010`, `SRC-012`–`SRC-036` were re-used where they remained the closest comparator or direct locus/context source.
+- Issue #37 added `SRC-037`–`SRC-047` for organizational-resilience measurement, readiness, agility, adaptive-performance measurement/localization, police readiness and organizational-effectiveness comparison.
+- Studies of **employee/personal resilience** remain excluded from the POR core unless they directly inform a construct boundary.
+- Readiness-for-change, emergency readiness, strategic agility, adaptive performance and perceived effectiveness are treated as non-interchangeable rivals, not synonyms for resilience.
 - `RUN-015` returning zero records is not treated as evidence of absence.
 - Search saturation is not claimed. Authenticated Scopus/WoS parity remains required before a final systematic literature-absence claim.
